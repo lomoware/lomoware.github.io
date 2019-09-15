@@ -1,0 +1,14 @@
+Package: lomo-vips
+Version: 1.1
+Maintainer: Lomoware
+Architecture: all
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-vips/lomo-vips_1.1_all.deb
+Size: 8974274
+SHA256: 8d8e8f180d74dd103142716e4e4e182c30d77405fecada217f6624e9d4f8a109
+SHA1: 3d1d63a7957dfe23ea3d0618b25d435770f447a8
+MD5sum: 175e698859df3f5d1ba827d5fd5befec
+Description: lomo libvips
+Depends: libexif-dev, libjpeg62-turbo-dev, libpng-dev, libglib2.0-dev, libexpat1-dev, libfftw3-dev, liblcms2-dev, libde265-dev, libffi6, libpcre3-dev
+
