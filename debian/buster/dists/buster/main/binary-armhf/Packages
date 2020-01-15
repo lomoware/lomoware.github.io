@@ -1,3 +1,17 @@
+Package: lomo-backend
+Version: 2020-01-14.23-50-21.0.fe2ebce
+Maintainer: Lomoware
+Architecture: all
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-backend/lomo-backend_2020-01-14.23-50-21.0.fe2ebce_all.deb
+Size: 22598154
+SHA256: 39b65bac546367c3292bf75d2bac1390201a2d1efe8091b24a7d8c38c60e682e
+SHA1: 71fd23eb3c283caa392fc98da7da8a6160606db1
+MD5sum: 14d75dc773876e457e828a9e2bc48a2c
+Description: lomo backend
+Depends: sqlite3, zip, libimage-exiftool-perl
+
 Package: lomo-vips
 Version: 1.1
 Maintainer: Lomoware
