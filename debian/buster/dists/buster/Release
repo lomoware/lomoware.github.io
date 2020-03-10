@@ -2,19 +2,19 @@ Origin: Lomorage
 Label: Lomorage
 Suite: stable
 Codename: buster
-Date: Mon, 09 Mar 2020 16:42:30 UTC
+Date: Tue, 10 Mar 2020 23:18:36 UTC
 Architectures: armhf
 Components: main
 Description: Lomoware ARM packages hosted on lomoware github repository
 MD5Sum:
- 9225f19ba8915afafbc72503fc9c8c87 2622 main/binary-armhf/Packages
- e2c2700d4da6a2da5331c3e7869d6e94 1165 main/binary-armhf/Packages.gz
+ 2f015cf2327b210e2990fffd2da34306 2622 main/binary-armhf/Packages
+ 34a724e4458163c1d5df1f16042f6b18 1167 main/binary-armhf/Packages.gz
  1688c221bd2c8d5a58b0bb51384675bd 157 main/binary-armhf/Release
 SHA1:
- 6039493734c894775373b65790bc28253e4c5526 2622 main/binary-armhf/Packages
- 3d8d7e1e37ee28068d2b25f47e0a68dfb0c6b8f5 1165 main/binary-armhf/Packages.gz
+ 96796f6bcb664c802cffc48ae0ecb8aba0a080ac 2622 main/binary-armhf/Packages
+ b3bf5c2f7d325151db4080262ef3c3d1808cc028 1167 main/binary-armhf/Packages.gz
  be92bb0da17cd8e8bf44ce480327b75b6164411d 157 main/binary-armhf/Release
 SHA256:
- 4d098d49f9d1188e2894f7b3922982470dc0f5010c19778623333353d3a82dbe 2622 main/binary-armhf/Packages
- 37fbce530da93bad7df434f8deaa2860a5312048cbb808d30dab042fa4772e1b 1165 main/binary-armhf/Packages.gz
+ 144eb604fb8f705ae74c686e8ca618c7f387016df0bc84d1993366318b3d464f 2622 main/binary-armhf/Packages
+ 764300b7b8041bdf6bb4878cc678fb09425831ed3378034ba97bb8a79969d631 1167 main/binary-armhf/Packages.gz
  290a2817f92bb1575d99a0823d43db664f13b47c22b4d3babbf8b11adb257c6b 157 main/binary-armhf/Release
