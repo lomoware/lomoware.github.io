@@ -13,17 +13,17 @@ Description: lomo backend
 Depends: sqlite3, zip, libimage-exiftool-perl
 
 Package: lomo-frame
-Version: 20200308+c4df35f
+Version: 20200314+6cb129e
 Architecture: all
-Depends: python3, python3-pyudev, python3-pygame, supervisor, lomo-omxplayer, ntfs-3g, exfat-fuse
+Depends: python3, python3-pyudev, python3-pygame, supervisor, lomo-omxplayer, ntfs-3g, exfat-fuse, ffmpeg
 Maintainer: Jeromy Fu<fuji246@gmail.com>
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-frame/lomo-frame_20200308+c4df35f_all.deb
-Size: 11792016
-SHA256: b8f13408b7a5f904b962f1743a0526911557566526adc094ccbedecf3be49709
-SHA1: 4cb7320b2e8c591ec9706ee4d5544a912735f3c2
-MD5sum: a3767259f99d1e85359499dfd724c3f8
+Filename: pool/main/l/lomo-frame/lomo-frame_20200314+6cb129e_all.deb
+Size: 11793464
+SHA256: eb4d76401febe4fc2a3a8930178d88402fc92d70f909113b0ed1a0b31ecea400
+SHA1: d1e02592c0ec64c77a261bd37ddb5bb5e413e6c6
+MD5sum: 19cdca7af3dd55f11d3d6c064e3a311b
 Description: Lomorage Digital Frame
 
 Package: lomo-omxplayer
