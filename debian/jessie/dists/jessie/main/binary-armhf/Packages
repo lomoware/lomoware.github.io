@@ -27,17 +27,17 @@ MD5sum: b9f0d8d0bd78aadb7515d82009238659
 Description: Lomorage Base Package, including network settings, usbmount mod, and gpio button and light control
 
 Package: lomo-frame
-Version: 20200314+6cb129e
+Version: 20200329+9a07e3d
 Architecture: all
 Depends: python3, python3-pyudev, python3-pygame, supervisor, lomo-omxplayer, ntfs-3g, exfat-fuse, ffmpeg
 Maintainer: Jeromy Fu<fuji246@gmail.com>
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-frame/lomo-frame_20200314+6cb129e_all.deb
-Size: 11793464
-SHA256: eb4d76401febe4fc2a3a8930178d88402fc92d70f909113b0ed1a0b31ecea400
-SHA1: d1e02592c0ec64c77a261bd37ddb5bb5e413e6c6
-MD5sum: 19cdca7af3dd55f11d3d6c064e3a311b
+Filename: pool/main/l/lomo-frame/lomo-frame_20200329+9a07e3d_all.deb
+Size: 11791636
+SHA256: 691d01ef000c91e7b6e1944e91790b0a15f8c546dc829b371ccd3ec4f04cda90
+SHA1: 45f95e9077c5038668caf3955cee182d2558bdb8
+MD5sum: 1aa6c30319dab2de638247c2141f82d3
 Description: Lomorage Digital Frame
 
 Package: lomo-omxplayer
