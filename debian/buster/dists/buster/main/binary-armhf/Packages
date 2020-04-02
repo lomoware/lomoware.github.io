@@ -83,16 +83,16 @@ Description: lomo libvips
 Depends: libexif-dev, libjpeg62-turbo-dev, libpng-dev, libglib2.0-dev, libexpat1-dev, libfftw3-dev, liblcms2-dev, libde265-dev, libffi6, libpcre3-dev
 
 Package: lomo-web
-Version: 2020-03-17.21-09-41.0.18df94b
+Version: 2020-04-02.16-09-14.0.adc2217
 Architecture: all
 Depends:
 Maintainer: Jeromy Fu<fuji246@gmail.com>
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-web/lomo-web_2020-03-17.21-09-41.0.18df94b_all.deb
-Size: 5773536
-SHA256: fa961c824a32033b1ac6473905d57f6b308b001dbe7dd7dd59294d05bf8b86cd
-SHA1: 2a7accef3681f1b13d2c0fbda3ffd4648e359430
-MD5sum: b5e7396faec83445fad55862d3171c65
+Filename: pool/main/l/lomo-web/lomo-web_2020-04-02.16-09-14.0.adc2217_all.deb
+Size: 5773736
+SHA256: 0ad3b880963cbe8065807993a7dfc9c178ef6fb844079612692b5ae4e7a60a1d
+SHA1: 20b2a5d31f7ab2be9a7ff1908fb78b0a8dedf92f
+MD5sum: 2631d41b8032c667e39429f477492788
 Description: Lomorage Web App 
 
