@@ -13,31 +13,31 @@ Description: lomo backend
 Depends: sqlite3, zip, libimage-exiftool-perl
 
 Package: lomo-base
-Version: 20200329+b244fd6
+Version: 20200401+b244fd6
 Architecture: all
 Depends: nfs-common, exfat-fuse, ntfs-3g, hfsplus, hfsutils, hfsprogs, lockfile-progs, ffmpeg, lockfile-progs, udev, util-linux, pmount, rsync, jq, libimage-exiftool-perl, dnsmasq, hostapd, wpasupplicant, python-gpiozero, python3-gpiozero
 Maintainer: Jeromy Fu<fuji246@gmail.com>
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-base/lomo-base_20200329+b244fd6_all.deb
+Filename: pool/main/l/lomo-base/lomo-base_20200401+b244fd6_all.deb
 Size: 9612
-SHA256: d994cb4d665953faf0e34f490fcda77873ee90e99351e86bce9408d489931f7d
-SHA1: 171e629c8c6def5b37239de173dd375959db0fba
-MD5sum: b9f0d8d0bd78aadb7515d82009238659
+SHA256: 1a2cb3364dd7f315a1b04d7441bc1448656744454aed66d951332f6348359c2d
+SHA1: 8966128caf5fcdd4efd270a7d2689c7167481fd9
+MD5sum: 012af6d205e43a8b0eaa3e562cae2205
 Description: Lomorage Base Package, including network settings, usbmount mod, and gpio button and light control
 
 Package: lomo-frame
-Version: 20200330+9a07e3d
+Version: 20200401+a4a1fdc
 Architecture: all
 Depends: python3, python3-pyudev, python3-pygame, supervisor, lomo-omxplayer, ntfs-3g, exfat-fuse, ffmpeg
 Maintainer: Jeromy Fu<fuji246@gmail.com>
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-frame/lomo-frame_20200330+9a07e3d_all.deb
-Size: 11794868
-SHA256: 6eb14ce350204a54bf8e7ae38505a0f3ee4529bed060f0b3a9f6cebb7f9d4e15
-SHA1: 7fd3c221943a58c23c44855397a72fa8fdb43aac
-MD5sum: 566dc6449166d332293a5f20dbbdc280
+Filename: pool/main/l/lomo-frame/lomo-frame_20200401+a4a1fdc_all.deb
+Size: 11792536
+SHA256: 8fabf2a657bc82872520e9affae2bd5d4b33e2bd9b13d8355ac9e4f566959858
+SHA1: 04aa56541f758ef8daa5f3d18c38de7504b36ba2
+MD5sum: 6291bdd45ef0f1d18e42221d9404f61b
 Description: Lomorage Digital Frame
 
 Package: lomo-omxplayer
