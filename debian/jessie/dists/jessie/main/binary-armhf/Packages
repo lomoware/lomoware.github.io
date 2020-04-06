@@ -27,17 +27,17 @@ Description: lomo backend
 Depends: sqlite3, zip, libimage-exiftool-perl
 
 Package: lomo-base
-Version: 20200401+b244fd6
+Version: 20200405+2cde260
 Architecture: all
 Depends: nfs-common, exfat-fuse, ntfs-3g, hfsplus, hfsutils, hfsprogs, lockfile-progs, ffmpeg, lockfile-progs, udev, util-linux, pmount, rsync, jq, libimage-exiftool-perl, dnsmasq, hostapd, wpasupplicant, python-gpiozero, python3-gpiozero
 Maintainer: Jeromy Fu<fuji246@gmail.com>
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-base/lomo-base_20200401+b244fd6_all.deb
-Size: 9612
-SHA256: 1a2cb3364dd7f315a1b04d7441bc1448656744454aed66d951332f6348359c2d
-SHA1: 8966128caf5fcdd4efd270a7d2689c7167481fd9
-MD5sum: 012af6d205e43a8b0eaa3e562cae2205
+Filename: pool/main/l/lomo-base/lomo-base_20200405+2cde260_all.deb
+Size: 9608
+SHA256: fc855dc2324b4aa77d494e801808c8b65e2d6cdef675c8c2548ae5c9e890f059
+SHA1: 92f2887f700956a7bac5701f03c0b70269cb8d7f
+MD5sum: e369baeac355bcad74bbd5fbd5f9f95c
 Description: Lomorage Base Package, including network settings, usbmount mod, and gpio button and light control
 
 Package: lomo-frame
