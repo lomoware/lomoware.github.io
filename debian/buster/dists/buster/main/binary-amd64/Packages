@@ -1,0 +1,14 @@
+Package: lomo-cloud
+Version: 2020-04-11.07-09-53.0.729908b
+Maintainer: Lomoware
+Architecture: all
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-cloud/lomo-cloud_2020-04-11.07-09-53.0.729908b_all.deb
+Size: 7067812
+SHA256: 43911e1eaee24527b5061b37234ed15d05139e269d70b05b31007052672ccac6
+SHA1: bb7db73e5d488621bf64ba6f17cce11b18028298
+MD5sum: 54ad162aa849cdec0c1def0358656aba
+Description: lomo cloud
+Depends: sqlite3
+
