@@ -54,3 +54,17 @@ SHA1: 2675a9f94146b4b6eee3a282ee3a3188cf3602dd
 MD5sum: 8f7e9b6bc3b7d569ca37512395290e7b
 Description: Lomorage Digital Frame
 
+Package: lomo-web
+Version: 2020-08-16.11-15-55.0.d75c683
+Architecture: all
+Depends:
+Maintainer: Jeromy Fu<fuji246@gmail.com>
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-web/lomo-web_2020-08-16.11-15-55.0.d75c683_all.deb
+Size: 6127388
+SHA256: c9cf5657253f1c38f09e76b524c3fb4a3e3b8c2581d2959e883ee4b54c34285a
+SHA1: 135450897ec2e3e31107c18ea84a74f1b314b326
+MD5sum: 0849ce5f0d304d938fb3b91f5e05357a
+Description: Lomorage Web App 
+
