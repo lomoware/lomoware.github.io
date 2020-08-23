@@ -1,28 +1,42 @@
 Package: lomo-backend
-Version: 2020-01-14.23-50-21.0.fe2ebce
+Version: 2020-08-22.17-43-17.0.21665f7
 Maintainer: Lomoware
 Architecture: all
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-backend/lomo-backend_2020-01-14.23-50-21.0.fe2ebce_all.deb
-Size: 22598154
-SHA256: 39b65bac546367c3292bf75d2bac1390201a2d1efe8091b24a7d8c38c60e682e
-SHA1: 71fd23eb3c283caa392fc98da7da8a6160606db1
-MD5sum: 14d75dc773876e457e828a9e2bc48a2c
+Filename: pool/main/l/lomo-backend/lomo-backend_2020-08-22.17-43-17.0.21665f7_all.deb
+Size: 15593864
+SHA256: 65366d5a8d1915d144f9e203b2ba871145efa1c8112b1cca046a84a28745945a
+SHA1: 803a17d51a4cc982e67882db4b831ca3e2b11e59
+MD5sum: 04d5f9a62b29614bedbf40fa1b7fed60
 Description: lomo backend
-Depends: sqlite3, zip, libimage-exiftool-perl
+Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync
 
 Package: lomo-backend-beta
-Version: 2020-05-06.10-04-04.0.8d48da2
+Version: 2020-08-22.20-52-53.0.21665f7
 Maintainer: Lomoware
 Architecture: all
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-backend-beta/lomo-backend-beta_2020-05-06.10-04-04.0.8d48da2_all.deb
-Size: 30509512
-SHA256: 90a28699aff7fb867b6a290544b4e80ae8b67688b8a12e74d17712ec4ffba114
-SHA1: af3042cbe3ea4d6dbb08fc7374eadcc55572522c
-MD5sum: b3af0c4cfa3258230024d5827601fa2d
+Filename: pool/main/l/lomo-backend-beta/lomo-backend-beta_2020-08-22.20-52-53.0.21665f7_all.deb
+Size: 15591940
+SHA256: e54e86f5101b39250befb750b00dfda7360839da40f18bd9eae73ce53bf9c0e4
+SHA1: ba89b33c877edf66ba38789a1487307f495fac95
+MD5sum: dd212b5b55a3fd1d3e941252bad39201
+Description: lomo backend
+Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync
+
+Package: lomo-backend-docker
+Version: 2020-08-22.20-57-00.0.21665f7
+Maintainer: Lomoware
+Architecture: all
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-backend-docker/lomo-backend-docker_2020-08-22.20-57-00.0.21665f7_all.deb
+Size: 15594012
+SHA256: ea75a62d083ffbd2aa4d24ffaab91183cb193a611212a7e74b1df0de17ae0b1b
+SHA1: dcd1249fb27278f5724e8b1df23e37ebb53ccdd8
+MD5sum: c43b05cb21c38e78ca5e84ffc4dae01a
 Description: lomo backend
 Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync
 
@@ -41,18 +55,31 @@ MD5sum: 505382f448b36d34238d701313dc1b16
 Description: Lomorage Base Package, including network settings, usbmount mod, and gpio button and light control
 
 Package: lomo-frame
-Version: 20200503+9bf0d92
+Version: 20200822+8e1e9c5
 Architecture: all
-Depends: python3, python3-pyudev, python3-pygame, supervisor, lomo-omxplayer, ntfs-3g, exfat-fuse, ffmpeg
+Depends: python3, python3-pyudev, python3-pygame, python3-watchdog, supervisor, lomo-omxplayer, ntfs-3g, exfat-fuse, ffmpeg, lomoframed
 Maintainer: Jeromy Fu<fuji246@gmail.com>
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-frame/lomo-frame_20200503+9bf0d92_all.deb
-Size: 11795060
-SHA256: 86eec892f75b10a8eb713b90892a338251d72aacb3968ba060d6af70fd6fc8f1
-SHA1: 2675a9f94146b4b6eee3a282ee3a3188cf3602dd
-MD5sum: 8f7e9b6bc3b7d569ca37512395290e7b
+Filename: pool/main/l/lomo-frame/lomo-frame_20200822+8e1e9c5_all.deb
+Size: 11794148
+SHA256: 620e50ff2f78621a70c67eb7cf9f8eecae1768a1db4e6b8e0eae9041368d923f
+SHA1: 6fcc519402c7a03f8a4d270f8ba6d6f2495225d2
+MD5sum: dd0d04ee763fbd267dde22c854093f8f
 Description: Lomorage Digital Frame
+
+Package: lomo-framed
+Version: 2020-08-22.19-59-33.0.21665f7
+Maintainer: Lomoware
+Architecture: all
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-framed/lomo-framed_2020-08-22.19-59-33.0.21665f7_all.deb
+Size: 7056048
+SHA256: 697cc7ceeb28bffb945668ee5b5fb98824a54d7c373f01c450dfe6b0a8a1d2db
+SHA1: 817a2184ba645d90caf5571283cfffc8b0334ca7
+MD5sum: acfa90398c049339305952e54eb659f6
+Description: lomo frame daemon
 
 Package: lomo-omxplayer
 Version: 20200307+6882f73
