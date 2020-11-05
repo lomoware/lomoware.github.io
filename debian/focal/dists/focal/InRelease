@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: Lomorage
+Label: Lomorage
+Suite: stable
+Codename: focal
+Date: Tue, 17 Nov 2020 08:19:26 UTC
+Architectures: amd64
+Components: main
+Description: Lomoware x86 packages hosted on lomoware github repository
+MD5Sum:
+ 75e6b0184d6234213c653ee4a005ba85 2202 main/binary-amd64/Packages
+ 735c18066784eb19efa3eb43d24b36a0 1048 main/binary-amd64/Packages.gz
+ a530785c31521a143232e6b9969e479a 157 main/binary-amd64/Release
+SHA1:
+ ec7812c96c874b89cf0aa7aa6e51f81e4e66e64a 2202 main/binary-amd64/Packages
+ f5f1331fd02f42c950ea57b2f13f66ce0264aa17 1048 main/binary-amd64/Packages.gz
+ d1e1997c47652d80a0155de56af56e24852fcc9b 157 main/binary-amd64/Release
+SHA256:
+ 7fe04972f900342159da309f39fff002bc08efa3b660c384a8d7fdf39b88125d 2202 main/binary-amd64/Packages
+ c5ab2c80a414d42f069b0e31c9da92b63f126ccba8694cf7bb6ab48c8fda30f8 1048 main/binary-amd64/Packages.gz
+ beeeff9b846cff551adc0a1c36ca6945b6a1585c15dff3b2d6851a659e8ee766 157 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEOCNoWaAI+4YMvVkhu3aCdvPg4s0FAl+zh5AACgkQu3aCdvPg
+4s2ggA//c4oDoXG+d1+VXERb3xkmtmotamTx+e5f1Qh+njR/9c2LwU9y1EBg4KZx
+Smzjs1iB66G1s2+Zvt4XjE0zyGPVsiD9wolx4NO2N9h2ZxmohnJsPbaXkL1TjlGl
+HkSUQbVwMCeYoO21yje8NT+beRz2rsMAskubYrnA7IjkhbdO7xMUpxbP4tM4wSvg
+t9EVsW36ebSiZMcH1j84b0R4y2ges/LkuhkIMVdQu5SbsZJp5HlvYH+EAMi7Htpg
+sJW2QHyWTtNcFmMSBcywOpMfBjsPt+K0HLj/tg0ftw63W6w1WIGh4kjBMeTJbwH2
+4qjpiRG2IXYjSoJ077BVRbg2iFrAVKafiRQLIo6y/DVKdTN9EWGf4tIAtKUa/vwQ
+5HDBZvsCR/dHOk2s6DCNasKNzQ8IgNKbw1AGSGGCbsRb1ZaTA8cHc7dl80HzgQP2
+AZVXufnB4U659xd2HzUrXkg60hu/swByc0xuQGRiJ3YT6uyGSHq4kmL8oOrnECwh
+AnRQZoh9l0sabNyLkHlJm995LRnHnoKglZc1ZJe5X0NvUFNqJVCTexoVsfPxv09z
+uATmvWC5FuLcKTpVQ+IHZj0re1FHKynvLNfqjHQFsVvlkQK/OS4u1MgpKU/5/lHx
+K14VZGtq47RDhRbklCqT+ShQBlBM5dQyzzfHB1m/yA9Nmu5vMuY=
+=QT6e
+-----END PGP SIGNATURE-----

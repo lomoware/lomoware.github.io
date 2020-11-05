@@ -1,0 +1,56 @@
+Package: lomo-backend
+Version: 2020-11-17.03-00-33.0.fa2a6a4
+Maintainer: Lomoware
+Architecture: amd64
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-backend/lomo-backend_2020-11-17.03-00-33.0.fa2a6a4_amd64.deb
+Size: 17332944
+SHA256: 5ab8caae8dc198441a970ccdabcc178e134211f1514246250c3196988ae43762
+SHA1: e79d9bb17007fe46be16f6d4c99d9accd24d18f8
+MD5sum: b0d78e8f2b3ba436d9f5dd807c81fc49
+Description: lomo backend
+Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync
+
+Package: lomo-base
+Version: 20200506+8814e7a
+Architecture: all
+Depends: nfs-common, exfat-fuse, ntfs-3g, hfsplus, hfsutils, hfsprogs, lockfile-progs, ffmpeg, lockfile-progs, udev, util-linux, pmount, rsync, jq, libimage-exiftool-perl, dnsmasq, hostapd, wpasupplicant, python-gpiozero, python3-gpiozero, avahi-utils, avahi-daemon
+Maintainer: Jeromy Fu<fuji246@gmail.com>
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-base/lomo-base_20200506+8814e7a_all.deb
+Size: 11088
+SHA256: 6ae4f7a092c484e278d44ccc148d6ab6e381779416ef29e53c7795a30c0fcf91
+SHA1: aadf5c3d0fb9dc3cfd69d26597dfa553a291fe8e
+MD5sum: 505382f448b36d34238d701313dc1b16
+Description: Lomorage Base Package, including network settings, usbmount mod, and gpio button and light control
+
+Package: lomo-vips
+Version: 1.0
+Maintainer: Lomoware
+Architecture: amd64
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-vips/lomo-vips_1.0_amd64.deb
+Size: 768
+SHA256: 42e822cac4cfb4635edc12b6911388412e529b0006dbc083ecfd394d565ff4be
+SHA1: 5497485e476926d4cb18786b8128792c25172edb
+MD5sum: 05e65112a9c726fe27d4c15b1907283e
+Description: lomo libvips
+Depends: libexif-dev, libjpeg-dev, libpng-dev, libglib2.0-dev, libexpat1, libfftw3-dev, liborc-0.4-dev, liblcms2-dev, libde265-0, libffi7, libpcre3, libheif-dev, gobject-introspection
+
+Package: lomo-web
+Version: 2020-08-16.11-15-55.0.d75c683
+Architecture: all
+Depends:
+Maintainer: Jeromy Fu<fuji246@gmail.com>
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-web/lomo-web_2020-08-16.11-15-55.0.d75c683_all.deb
+Size: 6127388
+SHA256: c9cf5657253f1c38f09e76b524c3fb4a3e3b8c2581d2959e883ee4b54c34285a
+SHA1: 135450897ec2e3e31107c18ea84a74f1b314b326
+MD5sum: 0849ce5f0d304d938fb3b91f5e05357a
+Description: Lomorage Web App 
+

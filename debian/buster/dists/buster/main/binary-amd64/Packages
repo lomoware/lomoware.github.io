@@ -1,14 +1,14 @@
 Package: lomo-backend
-Version: 2020-08-22.17-43-17.0.21665f7
+Version: 2020-11-11.13-30-07.0.fa2a6a4
 Maintainer: Lomoware
 Architecture: all
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-backend/lomo-backend_2020-08-22.17-43-17.0.21665f7_all.deb
-Size: 15593864
-SHA256: 65366d5a8d1915d144f9e203b2ba871145efa1c8112b1cca046a84a28745945a
-SHA1: 803a17d51a4cc982e67882db4b831ca3e2b11e59
-MD5sum: 04d5f9a62b29614bedbf40fa1b7fed60
+Filename: pool/main/l/lomo-backend/lomo-backend_2020-11-11.13-30-07.0.fa2a6a4_all.deb
+Size: 15592568
+SHA256: e3dbdce929411b189b4aac6b71f78610185fb4641485a2409e7652d728f33118
+SHA1: 6b95491c22bb8b33633cebaec22d6ebbf3994cc0
+MD5sum: d8520352db8adc187da3637de87c7bfc
 Description: lomo backend
 Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync
 
