@@ -1,5 +1,5 @@
 cd jessie
-reprepro -P 1  -S main includedeb jessie ../../lomo-backend.deb
+reprepro -P 1  -S main includedeb jessie ../../lomo-backend_armhf.deb
 
 cd ../buster
-reprepro -P 1  -S main includedeb buster ../../lomo-backend.deb
+reprepro -P 1  -S main includedeb buster ../../lomo-backend_armhf.deb
