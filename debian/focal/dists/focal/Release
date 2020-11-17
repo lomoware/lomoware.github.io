@@ -2,19 +2,19 @@ Origin: Lomorage
 Label: Lomorage
 Suite: stable
 Codename: focal
-Date: Tue, 17 Nov 2020 08:19:26 UTC
+Date: Tue, 17 Nov 2020 17:48:54 UTC
 Architectures: amd64
 Components: main
 Description: Lomoware x86 packages hosted on lomoware github repository
 MD5Sum:
- 75e6b0184d6234213c653ee4a005ba85 2202 main/binary-amd64/Packages
- 735c18066784eb19efa3eb43d24b36a0 1048 main/binary-amd64/Packages.gz
+ 70cdb46ea6b0e6ee0d88dabcc2339800 2185 main/binary-amd64/Packages
+ 2ac4a082b7545e7feb36fe38af93d659 1045 main/binary-amd64/Packages.gz
  a530785c31521a143232e6b9969e479a 157 main/binary-amd64/Release
 SHA1:
- ec7812c96c874b89cf0aa7aa6e51f81e4e66e64a 2202 main/binary-amd64/Packages
- f5f1331fd02f42c950ea57b2f13f66ce0264aa17 1048 main/binary-amd64/Packages.gz
+ 25ecbc5ade8826314b8a49e95e2b194ce049a259 2185 main/binary-amd64/Packages
+ b7598f46f295d08fc70918f31751889343902d9d 1045 main/binary-amd64/Packages.gz
  d1e1997c47652d80a0155de56af56e24852fcc9b 157 main/binary-amd64/Release
 SHA256:
- 7fe04972f900342159da309f39fff002bc08efa3b660c384a8d7fdf39b88125d 2202 main/binary-amd64/Packages
- c5ab2c80a414d42f069b0e31c9da92b63f126ccba8694cf7bb6ab48c8fda30f8 1048 main/binary-amd64/Packages.gz
+ 534be1295ec37923b19532bd25f590fc8562c782562d4c3c21dde287c69dc94f 2185 main/binary-amd64/Packages
+ 8e02e6358353f9d61ad435597786bdca7d4dd91cf7c32ff9df6df933526291d4 1045 main/binary-amd64/Packages.gz
  beeeff9b846cff551adc0a1c36ca6945b6a1585c15dff3b2d6851a659e8ee766 157 main/binary-amd64/Release

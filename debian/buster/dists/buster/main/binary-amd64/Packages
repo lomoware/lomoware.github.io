@@ -41,17 +41,17 @@ Description: lomo backend
 Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync
 
 Package: lomo-base
-Version: 20200506+8814e7a
+Version: 20201117+0eb1f18
 Architecture: all
-Depends: nfs-common, exfat-fuse, ntfs-3g, hfsplus, hfsutils, hfsprogs, lockfile-progs, ffmpeg, lockfile-progs, udev, util-linux, pmount, rsync, jq, libimage-exiftool-perl, dnsmasq, hostapd, wpasupplicant, python-gpiozero, python3-gpiozero, avahi-utils, avahi-daemon
+Depends: nfs-common, exfat-fuse, ntfs-3g, hfsplus, hfsutils, hfsprogs, lockfile-progs, ffmpeg, lockfile-progs, udev, util-linux, pmount, rsync, jq, libimage-exiftool-perl, dnsmasq, hostapd, wpasupplicant, python3-gpiozero, avahi-utils, avahi-daemon
 Maintainer: Jeromy Fu<fuji246@gmail.com>
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-base/lomo-base_20200506+8814e7a_all.deb
-Size: 11088
-SHA256: 6ae4f7a092c484e278d44ccc148d6ab6e381779416ef29e53c7795a30c0fcf91
-SHA1: aadf5c3d0fb9dc3cfd69d26597dfa553a291fe8e
-MD5sum: 505382f448b36d34238d701313dc1b16
+Filename: pool/main/l/lomo-base/lomo-base_20201117+0eb1f18_all.deb
+Size: 11076
+SHA256: 64f31a01faa907d920b9e770cc7ec48cc536e5f067d96803665ecc82cc7ac2bf
+SHA1: a14289b85ad9acb89e206546237ac785830155e9
+MD5sum: e0b1981ab42841af5a29bd33f86e9421
 Description: Lomorage Base Package, including network settings, usbmount mod, and gpio button and light control
 
 Package: lomo-cloud
