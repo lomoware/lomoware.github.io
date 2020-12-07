@@ -1,0 +1,56 @@
+Package: lomo-backend
+Version: 2020-12-06.10-57-44.0.fed22d7
+Maintainer: Lomoware
+Architecture: armhf
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-backend/lomo-backend_2020-12-06.10-57-44.0.fed22d7_armhf.deb
+Size: 8419456
+SHA256: 7a478e5ab058c67c608920137590d575d456d765d1e5a809ac8aa923c7b58c23
+SHA1: b770ac38cf620bccdda95ec72a93ef836bc96f6e
+MD5sum: 4638c97440220625cc64302e820a164c
+Description: lomo backend
+Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync
+
+Package: lomo-base
+Version: 20201206+ee145f1
+Architecture: all
+Depends: nfs-common, exfat-fuse, ntfs-3g, hfsplus, hfsutils, hfsprogs, lockfile-progs, ffmpeg, lockfile-progs, udev, util-linux, pmount, rsync, jq, libimage-exiftool-perl
+Maintainer: Jeromy Fu<fuji246@gmail.com>
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-base/lomo-base_20201206+ee145f1_all.deb
+Size: 6204
+SHA256: 82ad6b2d809d6202ed8922c85c0a2f6fb321d5ad81849fb9fa98babaf510151c
+SHA1: 48bf6b8507790cd6778e2addb34c11a9d85c02db
+MD5sum: 2247d12522dcfedb1b08f4a1a2218c19
+Description: Lomorage Base Package, including usbmount mod, and other deps 
+
+Package: lomo-vips
+Version: 1.0
+Maintainer: Lomoware
+Architecture: armhf
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-vips/lomo-vips_1.0_armhf.deb
+Size: 7345424
+SHA256: 65fb1e9056fa7a57457f65b85b2adebbf86b9ab4091a5c7e46d55c431a6db44f
+SHA1: d2411fcc9cc5327e0ebe1010442a2b217f56c0a3
+MD5sum: 1ce011624a93f6ee2c5d5a2789b79299
+Description: lomo libvips
+Depends: libexif-dev, libjpeg-dev, libpng-dev, libglib2.0-dev, libexpat1, libfftw3-dev, liborc-0.4-dev, liblcms2-dev, libde265-0, libffi7, libpcre3, libheif-dev, gobject-introspection
+
+Package: lomo-web
+Version: 2020-12-06.16-09-20.0.d75c683
+Architecture: all
+Depends:
+Maintainer: Jeromy Fu<fuji246@gmail.com>
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-web/lomo-web_2020-12-06.16-09-20.0.d75c683_all.deb
+Size: 6125792
+SHA256: 9e02adef3b4a961d0dfec1abb380450507b5d56bda3a40305069489468af8370
+SHA1: da38109c41961160d506e66749b3ec7134f15500
+MD5sum: 207258cc40d2bd3fcd4f29b5e5b61d16
+Description: Lomorage Web App 
+
