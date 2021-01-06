@@ -5,44 +5,44 @@ Origin: Lomorage
 Label: Lomorage
 Suite: stable
 Codename: buster
-Date: Tue, 17 Nov 2020 17:48:52 UTC
+Date: Thu, 07 Jan 2021 22:29:08 UTC
 Architectures: armhf amd64
 Components: main
 Description: Lomoware ARM packages hosted on lomoware github repository
 MD5Sum:
- 7ed6dfaa0ea88cc7fd0cdef54b00ad91 5234 main/binary-armhf/Packages
- f26072b899728820f62685e9c6d66689 2016 main/binary-armhf/Packages.gz
+ 00eb52059fd4d2ed75ed1abe2606136d 5279 main/binary-armhf/Packages
+ e3f634a7aa86abaeabaca6571317cd34 2059 main/binary-armhf/Packages.gz
  1688c221bd2c8d5a58b0bb51384675bd 157 main/binary-armhf/Release
- 8c33d681656efe2a76cc53d6dafc1acb 4020 main/binary-amd64/Packages
- 4bea1642a50550330fb73ee18c11b669 1543 main/binary-amd64/Packages.gz
+ 6b8dc12dcfc3c5bbd1ce81bb40f7c56a 4005 main/binary-amd64/Packages
+ a16edb9e206c85b9f3f75bbe91d4d9ae 1542 main/binary-amd64/Packages.gz
  b2a197d8dc0349dd63cc3865ef038ae2 157 main/binary-amd64/Release
 SHA1:
- 3fceda8a62dae643cd84abe965d155322e770c8b 5234 main/binary-armhf/Packages
- dc423b847d1f9b9380316ac703c037a0ccecbafe 2016 main/binary-armhf/Packages.gz
+ 63df65f87d9549bb6cec65902722a7fda9777ea3 5279 main/binary-armhf/Packages
+ bd026ca70733bd0a3124f31cfd3ca8da3d759825 2059 main/binary-armhf/Packages.gz
  be92bb0da17cd8e8bf44ce480327b75b6164411d 157 main/binary-armhf/Release
- 50d7972f5ab588f1a74342c6b0bf08d7239d2b24 4020 main/binary-amd64/Packages
- 47ee7dd1b42c60bba1f94f1afd88fc311d7b899b 1543 main/binary-amd64/Packages.gz
+ 180353ef03eba146c46850ca6f5bc36e72397528 4005 main/binary-amd64/Packages
+ 5c2e639e2d75bdd450a37371030f9187c53e8466 1542 main/binary-amd64/Packages.gz
  3fea147dd9287a5b6358837b5c4d11e5fa4cc960 157 main/binary-amd64/Release
 SHA256:
- ed4bad1af974fdd2e6a476f11ba980ab88bd1ea6bbadf2be0ab24c3d19c434b2 5234 main/binary-armhf/Packages
- 2f263d145709a1c02355fb6e31ee9048d7bed6cba0ab9dc19fade739a02d5bd7 2016 main/binary-armhf/Packages.gz
+ 592a66c7a888b96e7c0d450d41e6a0620d0fb43cd284ba38fc537a7e36df11fa 5279 main/binary-armhf/Packages
+ 092a88fdf1f8ac89e34874f000427220bf8379f976cc038e35bf45438e5a4649 2059 main/binary-armhf/Packages.gz
  290a2817f92bb1575d99a0823d43db664f13b47c22b4d3babbf8b11adb257c6b 157 main/binary-armhf/Release
- d23deac63c4a3802f188a8b434183149abf7b259171d089d736bd039d5e56d63 4020 main/binary-amd64/Packages
- b4df0799b2d778199e0ccc2f2feef6bf7fc14f33e539fe2acbfcf1c3c1923294 1543 main/binary-amd64/Packages.gz
+ 033c8fe96a37a5072bec7a568698f589cbd74b96334f80c399aa39a5e3014288 4005 main/binary-amd64/Packages
+ ce6f2708e96e8738b2e246de6b3f4a6e6d67769e34bc026443e702b09299dc0f 1542 main/binary-amd64/Packages.gz
  75e71f5d2f0c475ad72b5ce410f0867f3eef06e25f937774eabc5f2d268a85fa 157 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEOCNoWaAI+4YMvVkhu3aCdvPg4s0FAl+0DQQACgkQu3aCdvPg
-4s06aA//SeOEpOE7+nUql7HkFPEk5Q0uxMGaDm3uSDKJq3s55sGrO+rZXFTFiRCf
-tBg/hmN2OGv+MFWkvD0IVdsJ0iN09feqbGezHaVCCBdM5NJdv4P74eBgy8xiCkSN
-bhq4NMGW1qEyrFOp6QdxALapJD5zPK26BIcB+pfI8ozzqtJSu5jVft41QX0wc61l
-vCTXq3wInp/rc+3f99VX63mr65OvOb9VtgqGcDEVfi6YDCPlh6Ycm89rc2n5KAjO
-nSuaYMA8UknE0YPif1mznQTVvqQJInH9SHLv4gLIeKM/3ZxwrF0RLDpIphv41J68
-r7bXW0zqELsYScp3VnDgjp0RnBySzEyTWD7uTpWsIOz648JWB0XV6KTLKtMunL3n
-KPqAeZ3MMm6NI9j469MZeA6p7x/j6FnXnmPkIirTlgSxz+r1q4H7UIDjqaCIr/GO
-D27nfpGlUzIMjhoudydp9n2+hhjfgPevc51q/lrIcJUuNFpIU7fDpbmbEUX7e/V0
-2BYNquMRAXFyMNEAC1yU58bZWxvYvLdowPbCwJCk+BN22OjR6rjMu6DXoKmmDeSg
-qdOf43fr7BfBneHcE5SRDwQogHv3+uDGtZFkXZUaADPyc4ed6f6SbqlsgVdziNmB
-TlxC7hG7D9YJ95Oth104GffH6MGC04j/MvsYKEjqAahNs8tH9W8=
-=VHC5
+iQIzBAEBCgAdFiEEOCNoWaAI+4YMvVkhu3aCdvPg4s0FAl/3izQACgkQu3aCdvPg
+4s35cw//V9MeFK2dZKFnsZuOMZoH4m+/Qep4E62W/7xtEFOTxUM8JrlZGLAbeDu2
+kqcOychUfx82L79VTC3iAluckipatDTXERMLa/KbOcsogj0l8v71KDw4+a2DIyIu
+nMD2fOU47bw2noReWmbmtQLVDW3BwmSs59a84S5/tZDDLxEw6iRGk0IjclHl+D1u
+dNvD7rsJw2QnU64CwjaUjhih7fr+d8m9eWI1NdNQk+6cQ9FJs98FsR6mPsyiWcqi
+iixR1f4TfVV/aDUc+1nzUU4Fg+Y7ABv3A7AE0LIycEhwpz6xlpAztUSSb/HVTIwG
+1FmmPcyxMEIqOqBm2axePZ1N1isBqQJ4dUdUan0rSB8ZCUX0sU8YDX7KkTLhgvNW
+tqa3E8GQiezUwzxv0ntUcVShuTeblvfh8aRScuG7Ued1dDAM+gLaqdchhVsL4i8T
+mhh6Stdu+oGpvF4GGXdvtUpBWKUq23n41Efxu9nHEjLIeS7j+kVRfbcQp3WmJH2v
+5bZA+m6OUGKwobk3OOs5sn8Dc17c0ET63m59lsS3QbS2Em6EXk8/8nZV61JNclrP
+fE66iHhZPNeFASkxwot4+tcwuqmuUQGAf5Oxjflv7gahFfvWeoyHqPa0zhkfxxkS
+GFz3etUiaSScRS+P9ZejMGZNDrs0sMF3q6sxy3Cp0n4+Lg9fPxM=
+=uli4
 -----END PGP SIGNATURE-----
