@@ -1,0 +1,98 @@
+Package: lomo-backend
+Version: 2021-01-16.23-38-16.0.21dccfb
+Maintainer: Lomoware
+Architecture: arm64
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-backend/lomo-backend_2021-01-16.23-38-16.0.21dccfb_arm64.deb
+Size: 15926568
+SHA256: fb5574616d9333db4d42378b84b33a86863ceadebe2f724fcddb564f5b974bad
+SHA1: 4ad2103c3f0e677cb0859f153cbd1391db4dc7ac
+MD5sum: eb8b3268d31983248de90143247ad28d
+Description: lomo backend
+Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips
+
+Package: lomo-backend-docker
+Version: 2021-01-17.08-30-16.0.07bd005
+Maintainer: Lomoware
+Architecture: all
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-backend-docker/lomo-backend-docker_2021-01-17.08-30-16.0.07bd005_all.deb
+Size: 16236644
+SHA256: dcd311f566925302275102c813a285d37f27f721907c2547aa4c1e4ca94fdacf
+SHA1: 48dedd7a2f40ad75b85a3e2ce3702831bb931e3b
+MD5sum: 1e454760c91bcede19be50e7a91dbb30
+Description: lomo backend
+Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync
+
+Package: lomo-base
+Version: 20210107+d4f6574
+Architecture: all
+Depends: nfs-common, exfat-fuse, ntfs-3g, hfsplus, hfsutils, hfsprogs, ffmpeg, lockfile-progs, udev, util-linux, pmount, rsync, jq, libimage-exiftool-perl, dnsmasq, hostapd, wpasupplicant, python3-gpiozero, avahi-utils, avahi-daemon
+Maintainer: Jeromy Fu<fuji246@gmail.com>
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-base/lomo-base_20210107+d4f6574_all.deb
+Size: 10920
+SHA256: 33103f3a1bf4ebc3fa0a62a437047675d51edbb927d0e435a9a32dd0b6de3469
+SHA1: 5354c46bfce176761af309fa8d12407e43b14dc0
+MD5sum: ce3e7b6e281b7084141e9a975bc37bb7
+Description: Lomorage Base Package, including network settings, usbmount mod, and gpio button and light control
+
+Package: lomo-base-lite
+Version: 20210129+c1aded0
+Architecture: all
+Depends: nfs-common, exfat-fuse, ntfs-3g, hfsplus, hfsutils, hfsprogs, ffmpeg, lockfile-progs, udev, util-linux, pmount, rsync, jq, libimage-exiftool-perl
+Maintainer: Jeromy Fu<fuji246@gmail.com>
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-base-lite/lomo-base-lite_20210129+c1aded0_all.deb
+Size: 10624
+SHA256: dd93a8f208f9481a8a83d88a9c0ccc8366719cec0db1378d300d90040184af68
+SHA1: 56080f1dfb204d6ccc6a913bcb1c62be9325b3b4
+MD5sum: bfb2dbcd7c7437477afc2093c8ab343a
+Description: Lomorage Base Package, including usbmount mod, and other deps
+
+Package: lomo-framed
+Version: 2021-01-12.19-27-04.0.85bf9a3
+Maintainer: Lomoware
+Architecture: arm64
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-framed/lomo-framed_2021-01-12.19-27-04.0.85bf9a3_arm64.deb
+Size: 7043448
+SHA256: c007d5356ea4b37548f8322e73ac07776583aee1a470d7482cfc2a80998d6c89
+SHA1: 2e482badec6c48490b3db38e8212d48dc99c4cf4
+MD5sum: 230b0070feb19c0212334a3842c4e8a2
+Description: lomo frame daemon
+
+Package: lomo-vips
+Version: 8.10.5
+Maintainer: Lomoware
+Architecture: arm64
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-vips/lomo-vips_8.10.5_arm64.deb
+Size: 13671476
+SHA256: 7bae29ce5d43421193c0096d3e798098ed0b3a60dec3144fd1b7f07b44995607
+SHA1: c5507f20f41f9d5878125ea95c56dbd772b2df23
+MD5sum: b0c459f455d198ef86c48183f20c7025
+Description: libvips package required by lomorage
+Depends: libexpat1-dev, libfftw3-dev, liblcms2-dev, libwebp-dev, libtiff-dev, libexif-dev, libpng-dev, libturbojpeg0-dev, libglib2.0-dev, libimagequant-dev, libffi-dev, libpcre3-dev, libde265-dev
+#Depends: libexpat1, libfftw3-3, liblcms2-2, libwebp6, libwebpdemux2, libwebpmux3, libtiff5, libexif12, libpng-tools, libturbojpeg0, libglib2.0-dev, libimagequant0, libffi6, libpcre3, libde265-0
+
+Package: lomo-web
+Version: 2021-01-12.12-26-42.0.2a6fc48
+Architecture: arm64
+Depends:
+Maintainer: Jeromy Fu<fuji246@gmail.com>
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-web/lomo-web_2021-01-12.12-26-42.0.2a6fc48_arm64.deb
+Size: 5684600
+SHA256: a5c3183b69579f4daed5f0ce32b5cb74361a23c623a93e4a16b0deee3f27f71d
+SHA1: ee284014c3ad2c978337c1b38ec121c41fd5e654
+MD5sum: b686ec4ed7a2e4d0549d2d64bf224a00
+Description: Lomorage Web App 
+
