@@ -1,14 +1,14 @@
 Package: lomo-backend
-Version: 2021-01-07.23-51-14.0.06b6d2d
+Version: 2021-01-31.05-26-22.0.07bd005
 Maintainer: Lomoware
 Architecture: amd64
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-backend/lomo-backend_2021-01-07.23-51-14.0.06b6d2d_amd64.deb
-Size: 17359712
-SHA256: 9232cac2ca53ef9c9f44b325ceb495acd25a8b853e3cd6d7a8284d09d6885d79
-SHA1: b51f291fb9376bf629211dbc693f11be8c114b4e
-MD5sum: 2b54b54d448cfff2591b797ab2266b91
+Filename: pool/main/l/lomo-backend/lomo-backend_2021-01-31.05-26-22.0.07bd005_amd64.deb
+Size: 18062704
+SHA256: 2c70b20367bfb8f67264f91c29dd2b157219ad2f0786c2f75b9e4c3c2ca7e79c
+SHA1: 061ffe16d4d55770980c52f70cc11777239e5809
+MD5sum: 3469ae06963d575dd3136f13b5a6ca7d
 Description: lomo backend
 Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips
 
@@ -47,12 +47,13 @@ Architecture: amd64
 Priority: 1
 Section: main
 Filename: pool/main/l/lomo-vips/lomo-vips_8.10.5_amd64.deb
-Size: 8124852
-SHA256: 9e463f750d0954858ab161e0016e3410de665ee9d3c1de608137d19909dc38de
-SHA1: 37bdfee014a3411d857a5e8a3c91fa2b44784c16
-MD5sum: 2587b1e39e1ce0a2d37e2099dbc1c957
-Description: lomo libvips
-Depends: libexif-dev, libjpeg-dev, libpng-dev, libglib2.0-dev, libexpat1, libfftw3-dev, liborc-0.4-dev, liblcms2-dev, libde265-0, libffi7, libpcre3, libheif-dev, gobject-introspection, libwebp6, libwebpmux3, libwebpdemux2
+Size: 27021360
+SHA256: 2dd524343604d8e086b5e60c95802a5caa884b029cd7acdf8ff4e7e0a1c531b3
+SHA1: 999a9fa7e85081889b936091bf46283c8ed7cdf6
+MD5sum: 048bade812e10ccc577201b214c8433a
+Description: libvips package required by lomorage
+Depends: libexpat1-dev, libfftw3-dev, liblcms2-dev, libwebp-dev, libtiff-dev, libexif-dev, libpng-dev, libturbojpeg0-dev, libglib2.0-dev, libimagequant-dev, libffi-dev, libpcre3-dev, libde265-dev, liborc-0.4-dev, libheif-dev
+#PROD-Depends: libexpat1, libfftw3-3, liblcms2-2, libwebp6, libwebpdemux2, libwebpmux3, libtiff5, libexif12, libpng-tools, libturbojpeg0, libglib2.0-dev, libimagequant0, libffi6, libpcre3, libde265-0
 
 Package: lomo-web
 Version: 2020-12-06.16-09-20.0.d75c683

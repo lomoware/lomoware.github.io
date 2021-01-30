@@ -40,20 +40,6 @@ SHA1: 56080f1dfb204d6ccc6a913bcb1c62be9325b3b4
 MD5sum: bfb2dbcd7c7437477afc2093c8ab343a
 Description: Lomorage Base Package, including usbmount mod, and other deps
 
-Package: lomo-vips
-Version: 1.0
-Maintainer: Lomoware
-Architecture: armhf
-Priority: 1
-Section: main
-Filename: pool/main/l/lomo-vips/lomo-vips_1.0_armhf.deb
-Size: 7345424
-SHA256: 65fb1e9056fa7a57457f65b85b2adebbf86b9ab4091a5c7e46d55c431a6db44f
-SHA1: d2411fcc9cc5327e0ebe1010442a2b217f56c0a3
-MD5sum: 1ce011624a93f6ee2c5d5a2789b79299
-Description: lomo libvips
-Depends: libexif-dev, libjpeg-dev, libpng-dev, libglib2.0-dev, libexpat1, libfftw3-dev, liborc-0.4-dev, liblcms2-dev, libde265-0, libffi7, libpcre3, libheif-dev, gobject-introspection
-
 Package: lomo-web
 Version: 2020-12-06.16-09-20.0.d75c683
 Architecture: all
