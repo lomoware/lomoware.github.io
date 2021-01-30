@@ -5,44 +5,44 @@ Origin: Lomorage
 Label: Lomorage
 Suite: stable
 Codename: focal
-Date: Sat, 30 Jan 2021 05:15:21 UTC
+Date: Sun, 31 Jan 2021 06:36:45 UTC
 Architectures: armhf amd64
 Components: main
 Description: Lomoware packages hosted on lomoware github repository
 MD5Sum:
- ab204319ed3235a17536eb74d9493263 2788 main/binary-armhf/Packages
- a0b9b05bb66d9313752a8602f820361f 1187 main/binary-armhf/Packages.gz
+ 8106d0598bf76fef83e99712e191ecba 2308 main/binary-armhf/Packages
+ aacb5113f3a95bb1afb8a00add807ec6 973 main/binary-armhf/Packages.gz
  932285e7366ee6f2cbc2445c19e5ed8d 153 main/binary-armhf/Release
- d5ae54e8c492ed259bcf4dc718f8bfd1 2844 main/binary-amd64/Packages
- a952c03f85373553edc366f0089e6ec8 1205 main/binary-amd64/Packages.gz
+ 10646299f66bdc47795f78f6983a2f73 3573 main/binary-amd64/Packages
+ 9f5a2eb30463fc8a794a3e4bbc38699f 1411 main/binary-amd64/Packages.gz
  a530785c31521a143232e6b9969e479a 157 main/binary-amd64/Release
 SHA1:
- e6c741adda9f086351fb16dd375c570b63c866b4 2788 main/binary-armhf/Packages
- 55eb93c12d363677caba856331cd2884751c96c9 1187 main/binary-armhf/Packages.gz
+ fe61e5126f0d56e2780823c4becc71b54959f4a5 2308 main/binary-armhf/Packages
+ f24d6941ff471b93a3fbc36cdb053ec67235a97c 973 main/binary-armhf/Packages.gz
  3933a90b1a26f2f5aaa826e860c53dfdd5336d92 153 main/binary-armhf/Release
- 41d57f31df2811bbae33c58110823cfc2f89cefe 2844 main/binary-amd64/Packages
- 01bad05e6fd9dec7f66a16d78686fb757ee42f01 1205 main/binary-amd64/Packages.gz
+ 7fd218ba71b984823706188c040988d786a6b352 3573 main/binary-amd64/Packages
+ 8bb9c4816300b5392e5cc6a542a7292159d5a83d 1411 main/binary-amd64/Packages.gz
  d1e1997c47652d80a0155de56af56e24852fcc9b 157 main/binary-amd64/Release
 SHA256:
- 4acf7a0b80d952e0d68c32af3b0626ab6b654a07876a1c9bfdefb68901860488 2788 main/binary-armhf/Packages
- e38c1857803ea9fa738327652589586ab6878cb239032bc9ed16a396ffdc32a5 1187 main/binary-armhf/Packages.gz
+ 5426f09571683630ea8193a5bad2f7aa3fb047c5590c4c3a832601b43f573da4 2308 main/binary-armhf/Packages
+ 9f02a25456cc8b64aac8193339cb913942c35ee8e61c9d207b65f42b18583c30 973 main/binary-armhf/Packages.gz
  3092eded57e71f6cfd1557b2d238da0303049c7676c18cfcb1bc9a3660c602b9 153 main/binary-armhf/Release
- f1d20dccc3dd91e37e27bf55bcf44b782c173a44eecf8401e5a3277ceab139ea 2844 main/binary-amd64/Packages
- 246c0ee0ae7454c85d572f850fa48adef9d42ab047af782d3a07151c569943f4 1205 main/binary-amd64/Packages.gz
+ 124f37e8c02e0b098f02c779e7957435ba751517f72b2e4c9a28bb6ec39777e5 3573 main/binary-amd64/Packages
+ bf889cf31b14aef15a1d9599aafc7c2be4ded010be09ae0c109b764b3bb902d7 1411 main/binary-amd64/Packages.gz
  beeeff9b846cff551adc0a1c36ca6945b6a1585c15dff3b2d6851a659e8ee766 157 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEOCNoWaAI+4YMvVkhu3aCdvPg4s0FAmAU62oACgkQu3aCdvPg
-4s1aag//bzfMbLxQb6k1/wMyCcUmUJm6/FVqCmU92rZsO0q/jMhV3Vj5tgABnlrc
-Mj+jYXVgfXzNLlvnnt4zHih3/6Tzt79mvAVy+9qhy1kzJ6JZ84kx2RWhtFoqdOs2
-MUdXQev/iPFx+K+5XIOn7h8r3nrtb9p2mJM1YsS5/RxyNvr9oMf8Z32QqME9OMk1
-Fq6NlR9hjchKAGb+JTRJ9g74eDFBc49MO8tsYg7ojRsj93HxAubBiwUpMwOyBzeH
-mj4L+seTZWN5qO98gjmIjLABK5Sw2cHvkZIw86z0kXvjx+kW+/6TwgR4soNvjFFG
-u+ro5MgQHdM68/2Zh/Q+VmZvlZ6bNYQknqyJlBwNtE1P5oGOwepQ2rcKNolqpVhB
-QUOOMxrZjfHiWyOqieZVglz3lp2H1/YJehk3C6gzi6pOAb6DuBjTHPBL44jaYitG
-ZGn4hXSgwqLjYYLewVSgNUF6VIh+eA0Hwb7XTC6hx0NOCIa6BlWyvPK27EofhC2B
-QNymlRIV0L5aTJ5LlBr2MCnKEsdiNHc/aJWToAukhxUGrloIceN1Z8CxAgoqk6dr
-vDOpenDWo4hf1DH+6YYqyhTgcXR3LBBmSQzJSzE5ZWZwuoC09EJrrk/R6mzuOtsI
-5eqvmzJVYc2Ugq2JM6TcnRE53tBrvQWTui29WtZnjNMto3Y3kG0=
-=yXm+
+iQIzBAEBCgAdFiEEOCNoWaAI+4YMvVkhu3aCdvPg4s0FAmAWUAIACgkQu3aCdvPg
+4s1reQ//f4tdiKZ01r/fwq/4Zu9b2wgRaopa25Uri3mSNq8Yopo/hjOYAWsZ9jRN
+Z8TMEepWkymqDGDOE0VjLrIFSaoauZjJIo+ocwgt5V/C6T8StKiNVg0/u1jhrlC5
+StOnOaZtojDfA6ayTiMBziSgdCScTReqWM3/AYeRMfL5Gv0oC1bO9gyhDExZ/KAM
+LhCURMg3Wi4frgXxJKjo0takP4VM7XmuvdAHgGYAMD369dVwIEx1XOaGxJWiCemf
+nJ5X85zltkDEPqgbY8CDITtak0OdJWbHUiocUsyHB2iXJVR1oP0UoSKYJWEJCD8v
+sMngkLG2cpO63Jb57auRonWLGGUgTtuRT2IYutXfv6vJt+3A9+K2x3SCNEz2feet
+6Gn2FY7Iz5DyldJUThKcmv/EvzsZxcPD/yHVHnmgPEHY1AbLxQHJHK+qzNlKjmZV
+cblxASZiMm082cE9aorNpAglAS2/iqrBKnjxXHGd3I++QzVa07elKEn0B2SqjVue
+mRuXG2GiluQ5BP7AB4e6iVkjzoqyiEz0tbGfpNpVW6OZrask+S9Dzh9x7zmZ0CHA
+Y7uavXZpt3IaOxYqsylvRNW2VCN69KVvmko5C/b/UXkgZm2py2Uh/sfGE4yzSM8X
+IlmZDh3IcYjOIoSdhlNo2JeaSpHjy4ckgpmsY4pKrRJ1my0hbd4=
+=GHq9
 -----END PGP SIGNATURE-----
