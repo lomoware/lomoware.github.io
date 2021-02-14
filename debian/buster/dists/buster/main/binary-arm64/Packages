@@ -1,3 +1,29 @@
+Package: hd-idle
+Version: 1.12
+Architecture: arm64
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 2616
+Homepage: https://github.com/adelolmo/hd-idle
+Priority: 1
+Section: main
+Filename: pool/main/h/hd-idle/hd-idle_1.12_arm64.deb
+Size: 1169860
+SHA256: 5c1b7e4d5e28ec9cedffdcda257988b4d4e019c1043c6edef5642a8995ef6bc8
+SHA1: a52bc50aff17dc47ece5d049b5f5c1c162548ea8
+MD5sum: 328db74e0ef965c1415be3dfbc46c0ab
+Description: Spin down idle hard disks
+ hd-idle is a utility program for spinning-down external disks after a period
+ of idle time. Since most external IDE disk enclosures don't support setting
+ the IDE idle timer, a program like hd-idle is required to spin down idle disks
+ automatically.
+ .
+ A word of caution: hard disks don't like spinning up too often. Laptop disks
+ are more robust in this respect than desktop disks but if you set your disks
+ to spin down after a few seconds you may damage the disk over time due to the
+ stress the spin-up causes on the spindle motor and bearings. It seems that
+ manufacturers recommend a minimum idle time of 3-5 minutes, the default in
+ hd-idle is 10 minutes.
+
 Package: lomo-backend
 Version: 2021-01-16.23-38-16.0.21dccfb
 Maintainer: Lomoware
@@ -27,31 +53,31 @@ Description: lomo backend
 Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync
 
 Package: lomo-base
-Version: 20210107+d4f6574
+Version: 20210308+8ffdb36
 Architecture: all
-Depends: nfs-common, exfat-fuse, ntfs-3g, hfsplus, hfsutils, hfsprogs, ffmpeg, lockfile-progs, udev, util-linux, pmount, rsync, jq, libimage-exiftool-perl, dnsmasq, hostapd, wpasupplicant, python3-gpiozero, avahi-utils, avahi-daemon
+Depends: nfs-common, exfat-fuse, ntfs-3g, hfsplus, hfsutils, hfsprogs, ffmpeg, lockfile-progs, udev, util-linux, pmount, rsync, jq, libimage-exiftool-perl, dnsmasq, hostapd, wpasupplicant, python3-gpiozero, avahi-utils, avahi-daemon, hd-idle
 Maintainer: Jeromy Fu<fuji246@gmail.com>
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-base/lomo-base_20210107+d4f6574_all.deb
+Filename: pool/main/l/lomo-base/lomo-base_20210308+8ffdb36_all.deb
 Size: 10920
-SHA256: 33103f3a1bf4ebc3fa0a62a437047675d51edbb927d0e435a9a32dd0b6de3469
-SHA1: 5354c46bfce176761af309fa8d12407e43b14dc0
-MD5sum: ce3e7b6e281b7084141e9a975bc37bb7
+SHA256: 273c276422c895d38dcbec51e26ccd5626fdf59199cd7f716f24b1e9eb4f6464
+SHA1: 4c0036a014ef81e733db87ad2832332d4e276623
+MD5sum: ad0b8c7a0d57839c00834ef2123c5645
 Description: Lomorage Base Package, including network settings, usbmount mod, and gpio button and light control
 
 Package: lomo-base-lite
-Version: 20210129+c1aded0
+Version: 20210308+8ffdb36
 Architecture: all
-Depends: nfs-common, exfat-fuse, ntfs-3g, hfsplus, hfsutils, hfsprogs, ffmpeg, lockfile-progs, udev, util-linux, pmount, rsync, jq, libimage-exiftool-perl
+Depends: nfs-common, exfat-fuse, ntfs-3g, hfsplus, hfsutils, hfsprogs, ffmpeg, lockfile-progs, udev, util-linux, pmount, rsync, jq, libimage-exiftool-perl, hd-idle
 Maintainer: Jeromy Fu<fuji246@gmail.com>
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-base-lite/lomo-base-lite_20210129+c1aded0_all.deb
-Size: 10624
-SHA256: dd93a8f208f9481a8a83d88a9c0ccc8366719cec0db1378d300d90040184af68
-SHA1: 56080f1dfb204d6ccc6a913bcb1c62be9325b3b4
-MD5sum: bfb2dbcd7c7437477afc2093c8ab343a
+Filename: pool/main/l/lomo-base-lite/lomo-base-lite_20210308+8ffdb36_all.deb
+Size: 10616
+SHA256: 6cfc32e737536a1a100b98141ea293440bc13e4c462423459fc3cbc9ebc2eb25
+SHA1: 6767f42eed645df98d0067967efdb6d627bd0555
+MD5sum: b8ea2ec2915c043953c0bba4042f925a
 Description: Lomorage Base Package, including usbmount mod, and other deps
 
 Package: lomo-framed
