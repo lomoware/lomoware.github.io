@@ -12,20 +12,6 @@ MD5sum: d8520352db8adc187da3637de87c7bfc
 Description: lomo backend
 Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync
 
-Package: lomo-backend-beta
-Version: 2020-08-22.20-52-53.0.21665f7
-Maintainer: Lomoware
-Architecture: all
-Priority: 1
-Section: main
-Filename: pool/main/l/lomo-backend-beta/lomo-backend-beta_2020-08-22.20-52-53.0.21665f7_all.deb
-Size: 15591940
-SHA256: e54e86f5101b39250befb750b00dfda7360839da40f18bd9eae73ce53bf9c0e4
-SHA1: ba89b33c877edf66ba38789a1487307f495fac95
-MD5sum: dd212b5b55a3fd1d3e941252bad39201
-Description: lomo backend
-Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync
-
 Package: lomo-backend-docker
 Version: 2021-01-17.08-30-16.0.07bd005
 Maintainer: Lomoware

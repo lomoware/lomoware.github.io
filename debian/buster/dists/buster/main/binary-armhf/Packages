@@ -38,20 +38,6 @@ MD5sum: e732c8b09b24f17243e743c5a22a211d
 Description: lomo backend
 Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips
 
-Package: lomo-backend-beta
-Version: 2020-08-22.20-52-53.0.21665f7
-Maintainer: Lomoware
-Architecture: all
-Priority: 1
-Section: main
-Filename: pool/main/l/lomo-backend-beta/lomo-backend-beta_2020-08-22.20-52-53.0.21665f7_all.deb
-Size: 15591940
-SHA256: e54e86f5101b39250befb750b00dfda7360839da40f18bd9eae73ce53bf9c0e4
-SHA1: ba89b33c877edf66ba38789a1487307f495fac95
-MD5sum: dd212b5b55a3fd1d3e941252bad39201
-Description: lomo backend
-Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync
-
 Package: lomo-backend-docker
 Version: 2021-01-17.08-30-16.0.07bd005
 Maintainer: Lomoware
@@ -150,18 +136,19 @@ MD5sum: 04d303b566db41531a9eeb9badf6fb18
 Description: omxplayer
 
 Package: lomo-vips
-Version: 1.0
+Version: 8.10.5
 Maintainer: Lomoware
 Architecture: armhf
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-vips/lomo-vips_1.0_armhf.deb
-Size: 16838444
-SHA256: 087e9843e124c9056607ed6ddbbc413e6d93f3432d088f0d078b8921691b8a26
-SHA1: c136308e29fadf00629b67bab94add776f6e8a1e
-MD5sum: 5652f4c16ae9859859e4b0f82c14f6b6
-Description: lomo libvips
-Depends: libexif12, libjpeg62-turbo, libpng16-16, libglib2.0-dev, libexpat1, libfftw3-bin, liblcms2-2, libde265-0, libffi6, libpcre3, libwebp6, libwebpmux3, libwebpdemux2, libgif7, libtiff5
+Filename: pool/main/l/lomo-vips/lomo-vips_8.10.5_armhf.deb
+Size: 13007424
+SHA256: bb55462a913a644f0745e8eed1366bd83f629e962d92eecf53d02d5e0cf36f25
+SHA1: 2b5350a56ae639ce42f3b5b4424464b7df9def54
+MD5sum: 17a38bcb02d82b9ede39284e78e70b29
+Description: libvips package required by lomorage
+Depends: libexpat1-dev, libfftw3-dev, liblcms2-dev, libwebp-dev, libtiff-dev, libexif-dev, libpng-dev, libturbojpeg0-dev, libglib2.0-dev, libimagequant-dev, libffi-dev, libpcre3-dev, libde265-dev
+#Depends: libexpat1, libfftw3-3, liblcms2-2, libwebp6, libwebpdemux2, libwebpmux3, libtiff5, libexif12, libpng-tools, libturbojpeg0, libglib2.0-dev, libimagequant0, libffi6, libpcre3, libde265-0
 
 Package: lomo-web
 Version: 2021-01-12.13-16-32.0.3f7b89a
