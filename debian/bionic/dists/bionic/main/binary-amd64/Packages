@@ -25,18 +25,18 @@ Description: Spin down idle hard disks
  hd-idle is 10 minutes.
 
 Package: lomo-backend
-Version: 2021-01-30.12-21-44.0.0476f5a
+Version: 2021-06-08.23-52-07.0.8b7b9bd
 Maintainer: Lomoware
 Architecture: amd64
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-backend/lomo-backend_2021-01-30.12-21-44.0.0476f5a_amd64.deb
-Size: 16753452
-SHA256: b6f3832d8a4c2eb50d2c4240802c0938c3e7d892dd2336b71d595af3f5fcb0cf
-SHA1: c57637700e777d5956520cf7b9d3d64c082040d7
-MD5sum: 927f646b0ac4b64b9cc1c1547f67b046
+Filename: pool/main/l/lomo-backend/lomo-backend_2021-06-08.23-52-07.0.8b7b9bd_amd64.deb
+Size: 17069060
+SHA256: 06122df3429536605793b8678a070361cf65f0588cfcd8b56ea457f2ee60177d
+SHA1: 11a4eedde9327dbced8c459def70984e21432c23
+MD5sum: 4083184535ba76bf97ae91261d3f34e3
 Description: lomo backend
-Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips
+Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips, libblkid1, util-linux
 
 Package: lomo-base
 Version: 20210308+8ffdb36
@@ -53,18 +53,18 @@ MD5sum: ad0b8c7a0d57839c00834ef2123c5645
 Description: Lomorage Base Package, including network settings, usbmount mod, and gpio button and light control
 
 Package: lomo-base-lite
-Version: 20210308+8ffdb36
+Version: 20210517+60c0d29
 Architecture: all
-Depends: nfs-common, exfat-fuse, ntfs-3g, hfsplus, hfsutils, hfsprogs, ffmpeg, lockfile-progs, udev, util-linux, pmount, rsync, jq, libimage-exiftool-perl, hd-idle
+Depends: nfs-common, exfat-fuse, ntfs-3g, hfsplus, hfsutils, hfsprogs, ffmpeg, lockfile-progs, udev, util-linux, pmount, rsync, jq, libimage-exiftool-perl, dnsmasq, hostapd, wpasupplicant, python3-gpiozero, avahi-utils, avahi-daemon, hd-idle
 Maintainer: Jeromy Fu<fuji246@gmail.com>
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-base-lite/lomo-base-lite_20210308+8ffdb36_all.deb
-Size: 10616
-SHA256: 6cfc32e737536a1a100b98141ea293440bc13e4c462423459fc3cbc9ebc2eb25
-SHA1: 6767f42eed645df98d0067967efdb6d627bd0555
-MD5sum: b8ea2ec2915c043953c0bba4042f925a
-Description: Lomorage Base Package, including usbmount mod, and other deps
+Filename: pool/main/l/lomo-base-lite/lomo-base-lite_20210517+60c0d29_all.deb
+Size: 10924
+SHA256: 925b6b50ab8622fa84c614eb20acd534672e11b6455eaacddbe6513b0f9a9afd
+SHA1: 172c9d229ca749fc85d71fbb2293b3a76c3af39a
+MD5sum: dad6a0b57ab67b2659fa578e51b6b365
+Description: Lomorage Base Package, including network settings, usbmount mod, and gpio button and light control
 
 Package: lomo-vips
 Version: 1.0
