@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Lomorage
+Label: Lomorage
+Architecture: amd64
+Description: Lomoware x86 packages hosted on lomoware github repository

@@ -1,0 +1,70 @@
+Package: lomo-backend
+Version: 2020-11-11.13-30-07.0.fa2a6a4
+Maintainer: Lomoware
+Architecture: all
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-backend/lomo-backend_2020-11-11.13-30-07.0.fa2a6a4_all.deb
+Size: 15592568
+SHA256: e3dbdce929411b189b4aac6b71f78610185fb4641485a2409e7652d728f33118
+SHA1: 6b95491c22bb8b33633cebaec22d6ebbf3994cc0
+MD5sum: d8520352db8adc187da3637de87c7bfc
+Description: lomo backend
+Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync
+
+Package: lomo-base
+Version: 20210308+8ffdb36
+Architecture: all
+Depends: nfs-common, exfat-fuse, ntfs-3g, hfsplus, hfsutils, hfsprogs, ffmpeg, lockfile-progs, udev, util-linux, pmount, rsync, jq, libimage-exiftool-perl, dnsmasq, hostapd, wpasupplicant, python3-gpiozero, avahi-utils, avahi-daemon, hd-idle
+Maintainer: Jeromy Fu<fuji246@gmail.com>
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-base/lomo-base_20210308+8ffdb36_all.deb
+Size: 10920
+SHA256: 273c276422c895d38dcbec51e26ccd5626fdf59199cd7f716f24b1e9eb4f6464
+SHA1: 4c0036a014ef81e733db87ad2832332d4e276623
+MD5sum: ad0b8c7a0d57839c00834ef2123c5645
+Description: Lomorage Base Package, including network settings, usbmount mod, and gpio button and light control
+
+Package: lomo-base-lite
+Version: 2021-09-07.12-12-59.0.ba84e67
+Architecture: all
+Depends: nfs-common, exfat-fuse, ntfs-3g, hfsplus, hfsutils, hfsprogs, ffmpeg, lockfile-progs, udev, util-linux, pmount, rsync, jq, libimage-exiftool-perl, avahi-utils, avahi-daemon, hd-idle
+Maintainer: Jeromy Fu<fuji246@gmail.com>
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-base-lite/lomo-base-lite_2021-09-07.12-12-59.0.ba84e67_all.deb
+Size: 6052
+SHA256: c5b4b5abca51897b9cbaf21d5d3ae3d3a1acbe723f113e50a398492f4b4d4995
+SHA1: f3f4d708dcadf2fb983b1e01caf53248f0b10f4e
+MD5sum: f52e3f327fe5d40c23e0a39c13df6de3
+Description: Lomorage Base Package, including usbmount mod, and other deps
+
+Package: lomo-cloud
+Version: 2020-04-11.07-09-53.0.729908b
+Maintainer: Lomoware
+Architecture: all
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-cloud/lomo-cloud_2020-04-11.07-09-53.0.729908b_all.deb
+Size: 7067812
+SHA256: 43911e1eaee24527b5061b37234ed15d05139e269d70b05b31007052672ccac6
+SHA1: bb7db73e5d488621bf64ba6f17cce11b18028298
+MD5sum: 54ad162aa849cdec0c1def0358656aba
+Description: lomo cloud
+Depends: sqlite3
+
+Package: lomo-frame
+Version: 2021-09-13.11-36-27.0.b7a3e5d
+Architecture: all
+Depends: python3, python3-pyudev, python3-pygame, python3-watchdog, supervisor, vlc, ntfs-3g, exfat-fuse, ffmpeg, lomo-framed
+Maintainer: Jeromy Fu<fuji246@gmail.com>
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-frame/lomo-frame_2021-09-13.11-36-27.0.b7a3e5d_all.deb
+Size: 11791444
+SHA256: d0741c45876255a14571126d1500bd2072b63ae0796498f2d236a0a52bcff47c
+SHA1: 246c4663ae08dedc27aa30bc0038ff86ff8285b8
+MD5sum: df0cccbef8d80a9f31ad27c01e2a7089
+Description: Lomorage Digital Frame
+

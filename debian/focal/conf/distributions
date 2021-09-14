@@ -1,0 +1,8 @@
+Origin: Lomorage
+Label: Lomorage
+Suite: stable
+Codename: focal
+Architectures: armhf amd64
+Components: main
+Description: Lomoware packages hosted on lomoware github repository
+SignWith: F3E0E2CD

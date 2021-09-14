@@ -1,0 +1,14 @@
+Package: lomo-vips
+Version: 1.0
+Maintainer: Lomoware
+Architecture: arm64
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-vips/lomo-vips_1.0_arm64.deb
+Size: 7208888
+SHA256: dd0f1ca9acf92bf0a15a62ec759c3b6533fab41a55a3bff2a18c6120662d700d
+SHA1: d91bd5207cce1d73330b8634b4e8f82c7b2b0d01
+MD5sum: 5ccbc9b247220a97d7abd5e65e9d0c0e
+Description: lomo libvips
+Depends: libexif12, libjpeg62-turbo, libpng16-16, libglib2.0-dev, libexpat1, libfftw3-bin, liblcms2-2, libde265-0, libffi6, libpcre3
+

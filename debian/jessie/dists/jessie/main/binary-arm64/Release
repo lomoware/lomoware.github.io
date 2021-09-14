@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Lomorage
+Label: Lomorage
+Architecture: arm64
+Description: Lomoware ARM packages hosted on lomoware github repository

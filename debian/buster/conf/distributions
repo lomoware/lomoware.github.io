@@ -1,0 +1,8 @@
+Origin: Lomorage
+Label: Lomorage
+Suite: stable
+Codename: buster
+Architectures: armhf arm64 amd64
+Components: main
+Description: Lomoware ARM packages hosted on lomoware github repository
+SignWith: F3E0E2CD
