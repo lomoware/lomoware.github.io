@@ -55,16 +55,16 @@ Description: lomo cloud
 Depends: sqlite3
 
 Package: lomo-frame
-Version: 2021-09-13.11-36-27.0.b7a3e5d
+Version: 2021-09-14.09-06-12.0.14e3044
 Architecture: all
 Depends: python3, python3-pyudev, python3-pygame, python3-watchdog, supervisor, vlc, ntfs-3g, exfat-fuse, ffmpeg, lomo-framed
 Maintainer: Jeromy Fu<fuji246@gmail.com>
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-frame/lomo-frame_2021-09-13.11-36-27.0.b7a3e5d_all.deb
-Size: 11791444
-SHA256: d0741c45876255a14571126d1500bd2072b63ae0796498f2d236a0a52bcff47c
-SHA1: 246c4663ae08dedc27aa30bc0038ff86ff8285b8
-MD5sum: df0cccbef8d80a9f31ad27c01e2a7089
+Filename: pool/main/l/lomo-frame/lomo-frame_2021-09-14.09-06-12.0.14e3044_all.deb
+Size: 11795804
+SHA256: c5e80d12022037382aedc55f44dd206b2339cb2cf77d76975d45b6decaa37941
+SHA1: 8fb8757e001c16fffa8c7154e02ec2a0e24dc777
+MD5sum: 5f8860c1dde571693c1f529ee327040f
 Description: Lomorage Digital Frame
 
