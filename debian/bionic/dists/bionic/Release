@@ -2,19 +2,19 @@ Origin: Lomorage
 Label: Lomorage
 Suite: stable
 Codename: bionic
-Date: Thu, 23 Sep 2021 06:13:21 UTC
+Date: Mon, 25 Oct 2021 01:44:46 UTC
 Architectures: amd64
 Components: main
 Description: Lomoware packages hosted on lomoware github repository
 MD5Sum:
- f0d9cd8cd6ce77b55b7446e7c12dbdc9 4544 main/binary-amd64/Packages
- 6c062a340a0b7967c2e89050517a10e8 1945 main/binary-amd64/Packages.gz
+ d2f5513e0e01b39e355fbcf19103f817 4544 main/binary-amd64/Packages
+ fec2d368b6c868e7083728495a5fa081 1944 main/binary-amd64/Packages.gz
  a7ea2f969c06bb5d40720b349cc3502c 153 main/binary-amd64/Release
 SHA1:
- 85f674de131aaeb80b19f861756bb60f0eb67f3b 4544 main/binary-amd64/Packages
- 34f6a8aabeaa5788839b2b883386c24544f743c8 1945 main/binary-amd64/Packages.gz
+ 0008327ea57c76f51dfb1f770d011dda92e62105 4544 main/binary-amd64/Packages
+ 2715e7cae8c4f7168c80961e01bb9ff6242d671f 1944 main/binary-amd64/Packages.gz
  b5bba940f56b7a5f25b45ff3e097a478a430385e 153 main/binary-amd64/Release
 SHA256:
- fad5f3d9c50360f26246132baa0f90c6628183033c18748ce912b23f66fe6708 4544 main/binary-amd64/Packages
- 6f8ee38e84ce0123a34141bca62da0284fca8d1e963ee4abeda4d1ee2ecfa3fe 1945 main/binary-amd64/Packages.gz
+ 684c754afae9f9a5d4a7c30500cef53b6903cb181a04c97b04374d400aadd96c 4544 main/binary-amd64/Packages
+ a2134569da60ed3045cd9afac61402018795d67fa2156e85d8ce00b9d9b515fd 1944 main/binary-amd64/Packages.gz
  bac785b24d62d4f840e0c3e9a8d11eca4c42e3ba47febd6bbe87cd862e08957d 153 main/binary-amd64/Release
