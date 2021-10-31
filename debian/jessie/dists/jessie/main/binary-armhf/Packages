@@ -1,28 +1,28 @@
 Package: lomo-backend
-Version: 2021-10-28.15-54-30.0.69dfe6a
+Version: 2021-10-30.09-30-58.0.099806b
 Maintainer: Lomoware
 Architecture: armhf
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-backend/lomo-backend_2021-10-28.15-54-30.0.69dfe6a_armhf.deb
-Size: 20140524
-SHA256: 244c38091eb2c6f620dd73ff5caeb13070becf087ebe2139190477c34e8d8836
-SHA1: c726561305b88cced0f9c489ea66432b196cfebf
-MD5sum: b37fb1f50f10a98fd5863525f37b9a0e
+Filename: pool/main/l/lomo-backend/lomo-backend_2021-10-30.09-30-58.0.099806b_armhf.deb
+Size: 20141560
+SHA256: 0d89ae8275b3cf80d38574bcf09f7eb5160e1c45a7bbe9da4456341ad39af059
+SHA1: 91ce92f8371752e33e636c1bff681cf1d3501e05
+MD5sum: 6747b631a336fd6fe07ed7675fb918d4
 Description: lomo backend
 Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips, libblkid1, util-linux, samba, samba-common-bin, smbclient, cifs-utils
 
 Package: lomo-backend-docker
-Version: 2021-10-28.15-59-30.0.69dfe6a
+Version: 2021-10-30.09-44-54.0.099806b
 Maintainer: Lomoware
 Architecture: armhf
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-backend-docker/lomo-backend-docker_2021-10-28.15-59-30.0.69dfe6a_armhf.deb
-Size: 20139056
-SHA256: 4087b1b5d13384670d031c6060c67d4e963171bfe4b319af75cdb48d0c21b9fe
-SHA1: f3573eb7933d9f05452ab3e398a41ef510decae2
-MD5sum: 70afb700470aa59c16015b3c165b28c8
+Filename: pool/main/l/lomo-backend-docker/lomo-backend-docker_2021-10-30.09-44-54.0.099806b_armhf.deb
+Size: 20140888
+SHA256: d978105cafc8c60d03bfe39de38cc6f3a9226071eb4ffadd9295fa0051e7b25e
+SHA1: ae6ef07fe0b5c5d1f17e5b750d7d834b939c1678
+MD5sum: 07e996b19ccb4e69cac7a5c22fff1ebf
 Description: lomo backend
 Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips, libblkid1, util-linux, samba, samba-common-bin, smbclient, cifs-utils
 
