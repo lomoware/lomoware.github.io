@@ -1,3 +1,29 @@
+Package: hd-idle
+Version: 1.12
+Architecture: arm64
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 2616
+Homepage: https://github.com/adelolmo/hd-idle
+Priority: 1
+Section: main
+Filename: pool/main/h/hd-idle/hd-idle_1.12_arm64.deb
+Size: 1169860
+SHA256: 5c1b7e4d5e28ec9cedffdcda257988b4d4e019c1043c6edef5642a8995ef6bc8
+SHA1: a52bc50aff17dc47ece5d049b5f5c1c162548ea8
+MD5sum: 328db74e0ef965c1415be3dfbc46c0ab
+Description: Spin down idle hard disks
+ hd-idle is a utility program for spinning-down external disks after a period
+ of idle time. Since most external IDE disk enclosures don't support setting
+ the IDE idle timer, a program like hd-idle is required to spin down idle disks
+ automatically.
+ .
+ A word of caution: hard disks don't like spinning up too often. Laptop disks
+ are more robust in this respect than desktop disks but if you set your disks
+ to spin down after a few seconds you may damage the disk over time due to the
+ stress the spin-up causes on the spindle motor and bearings. It seems that
+ manufacturers recommend a minimum idle time of 3-5 minutes, the default in
+ hd-idle is 10 minutes.
+
 Package: lomo-backend
 Version: 2021-11-25.10-34-47.0.057f214
 Maintainer: Lomoware
@@ -53,4 +79,19 @@ SHA256: 5dd8542adcee5b0bdfd46856788e9d99357839807424bf53c2d0e7b16bb151f4
 SHA1: d0cdff6e7533725abc8db01f96fdd80acdd75833
 MD5sum: 49f9d2b2d52b2ba777aebbd2b1578344
 Description: Lomorage Base Package, including usbmount mod, and other deps
+
+Package: lomo-vips
+Version: 8.10.5
+Maintainer: Lomoware
+Architecture: arm64
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-vips/lomo-vips_8.10.5_arm64.deb
+Size: 13671476
+SHA256: 7bae29ce5d43421193c0096d3e798098ed0b3a60dec3144fd1b7f07b44995607
+SHA1: c5507f20f41f9d5878125ea95c56dbd772b2df23
+MD5sum: b0c459f455d198ef86c48183f20c7025
+Description: libvips package required by lomorage
+Depends: libexpat1-dev, libfftw3-dev, liblcms2-dev, libwebp-dev, libtiff-dev, libexif-dev, libpng-dev, libturbojpeg0-dev, libglib2.0-dev, libimagequant-dev, libffi-dev, libpcre3-dev, libde265-dev
+#Depends: libexpat1, libfftw3-3, liblcms2-2, libwebp6, libwebpdemux2, libwebpmux3, libtiff5, libexif12, libpng-tools, libturbojpeg0, libglib2.0-dev, libimagequant0, libffi6, libpcre3, libde265-0
 

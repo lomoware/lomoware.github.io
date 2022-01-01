@@ -12,6 +12,12 @@ reprepro -P 1  -S main includedeb buster ../../lomo-base.deb
 reprepro remove buster lomo-base-lite
 reprepro -P 1  -S main includedeb buster ../../lomo-base-lite.deb
 
+cd ../bullseye
+reprepro remove bullseye lomo-base
+reprepro -P 1  -S main includedeb bullseye ../../lomo-base.deb
+reprepro remove bullseye lomo-base-lite
+reprepro -P 1  -S main includedeb bullseye ../../lomo-base-lite.deb
+
 cd ../focal
 reprepro remove focal lomo-base
 reprepro -P 1  -S main includedeb focal ../../lomo-base.deb
