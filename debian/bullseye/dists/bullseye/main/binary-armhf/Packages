@@ -80,3 +80,18 @@ SHA1: d0cdff6e7533725abc8db01f96fdd80acdd75833
 MD5sum: 49f9d2b2d52b2ba777aebbd2b1578344
 Description: Lomorage Base Package, including usbmount mod, and other deps
 
+Package: lomo-vips
+Version: 8.10.5
+Maintainer: Lomoware
+Architecture: armhf
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-vips/lomo-vips_8.10.5_armhf.deb
+Size: 13007424
+SHA256: bb55462a913a644f0745e8eed1366bd83f629e962d92eecf53d02d5e0cf36f25
+SHA1: 2b5350a56ae639ce42f3b5b4424464b7df9def54
+MD5sum: 17a38bcb02d82b9ede39284e78e70b29
+Description: libvips package required by lomorage
+Depends: libexpat1-dev, libfftw3-dev, liblcms2-dev, libwebp-dev, libtiff-dev, libexif-dev, libpng-dev, libturbojpeg0-dev, libglib2.0-dev, libimagequant-dev, libffi-dev, libpcre3-dev, libde265-dev
+#Depends: libexpat1, libfftw3-3, liblcms2-2, libwebp6, libwebpdemux2, libwebpmux3, libtiff5, libexif12, libpng-tools, libturbojpeg0, libglib2.0-dev, libimagequant0, libffi6, libpcre3, libde265-0
+
