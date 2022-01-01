@@ -1,0 +1,56 @@
+Package: lomo-backend
+Version: 2021-11-25.10-30-14.0.057f214
+Maintainer: Lomoware
+Architecture: armhf
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-backend/lomo-backend_2021-11-25.10-30-14.0.057f214_armhf.deb
+Size: 20149712
+SHA256: 3ffa2b15735d1e4e9db2b6541a02385b3cb69ca30a4aa005cb1dff1b41768f0f
+SHA1: 26fa691918cc12e21b80546da9273a63b444cc3d
+MD5sum: 53c0ab46c6b443d50a82a67c84ed8fa7
+Description: lomo backend
+Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips, libblkid1, util-linux, samba, samba-common-bin, smbclient, cifs-utils
+
+Package: lomo-backend-docker
+Version: 2021-11-25.14-37-01.0.057f214
+Maintainer: Lomoware
+Architecture: armhf
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-backend-docker/lomo-backend-docker_2021-11-25.14-37-01.0.057f214_armhf.deb
+Size: 20149112
+SHA256: 7564ebfc9ae2c3106e21fd8e0944067e31185c74e4e34f4473d9965c1c1b6000
+SHA1: c5e142bc0adb2184154df31cf3886441183d8dec
+MD5sum: 92d675120226f879955a0a6a5be9fb2e
+Description: lomo backend
+Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips, libblkid1, util-linux, samba, samba-common-bin, smbclient, cifs-utils
+
+Package: lomo-base
+Version: 2021-09-19.09-08-28.0.5e9419b
+Architecture: all
+Depends: nfs-common, exfat-fuse, ntfs-3g, hfsplus, hfsutils, hfsprogs, ffmpeg, lockfile-progs, udev, util-linux, pmount, rsync, jq, libimage-exiftool-perl, dnsmasq, hostapd, wpasupplicant, python3-gpiozero, avahi-utils, avahi-daemon, hd-idle
+Maintainer: Jeromy Fu<fuji246@gmail.com>
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-base/lomo-base_2021-09-19.09-08-28.0.5e9419b_all.deb
+Size: 10932
+SHA256: 632304a5d4c28b43a49a92ffa87c3049aa41051b647b34cbb7db6763e056e20c
+SHA1: 0573aaec494cd0f745d866b3597eab4fd547660e
+MD5sum: e09f2170c872bbedc16274767048703c
+Description: Lomorage Base Package, including network settings, usbmount mod, and gpio button and light control
+
+Package: lomo-base-lite
+Version: 2021-09-19.09-08-28.0.5e9419b
+Architecture: all
+Depends: nfs-common, exfat-fuse, ntfs-3g, hfsplus, hfsutils, hfsprogs, ffmpeg, lockfile-progs, udev, util-linux, pmount, rsync, jq, libimage-exiftool-perl, avahi-utils, avahi-daemon, hd-idle
+Maintainer: Jeromy Fu<fuji246@gmail.com>
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-base-lite/lomo-base-lite_2021-09-19.09-08-28.0.5e9419b_all.deb
+Size: 6056
+SHA256: 5dd8542adcee5b0bdfd46856788e9d99357839807424bf53c2d0e7b16bb151f4
+SHA1: d0cdff6e7533725abc8db01f96fdd80acdd75833
+MD5sum: 49f9d2b2d52b2ba777aebbd2b1578344
+Description: Lomorage Base Package, including usbmount mod, and other deps
+
