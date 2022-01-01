@@ -80,6 +80,34 @@ SHA1: d0cdff6e7533725abc8db01f96fdd80acdd75833
 MD5sum: 49f9d2b2d52b2ba777aebbd2b1578344
 Description: Lomorage Base Package, including usbmount mod, and other deps
 
+Package: lomo-frame
+Version: 20210825+b7a3e5d
+Architecture: all
+Depends: python3, python3-pyudev, python3-pygame, python3-watchdog, supervisor, vlc, ntfs-3g, exfat-fuse, ffmpeg, lomo-framed
+Maintainer: Jeromy Fu<fuji246@gmail.com>
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-frame/lomo-frame_20210825+b7a3e5d_all.deb
+Size: 11791608
+SHA256: 22fa82b37b2415da77191f02b52d82255c5be26dd99efcf25c7674c3ebf6fcc8
+SHA1: ab3839949737d1d30a36c504900297551b4c2184
+MD5sum: ffbe146bc00387d0d482591570acd045
+Description: Lomorage Digital Frame
+
+Package: lomo-framed
+Version: 2021-09-06.23-36-58.0.696faf6
+Maintainer: Lomoware
+Architecture: armhf
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-framed/lomo-framed_2021-09-06.23-36-58.0.696faf6_armhf.deb
+Size: 7538052
+SHA256: e6dc31109ac23a1c44f90d972725018567abd54a44d20d590a64423a6178882a
+SHA1: eddfcf61a387b7c88add445c80ec231429941d61
+MD5sum: 4d13804907434a18a6410a93ce679648
+Description: lomo frame daemon
+Depends: samba, samba-common-bin, smbclient, cifs-utils
+
 Package: lomo-vips
 Version: 8.10.5
 Maintainer: Lomoware
