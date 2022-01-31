@@ -2,7 +2,7 @@ Origin: Lomorage
 Label: Lomorage
 Suite: stable
 Codename: groovy
-Date: Mon, 01 Feb 2021 02:08:40 UTC
+Date: Mon, 31 Jan 2022 04:29:01 UTC
 Architectures: armhf arm64 amd64
 Components: main
 Description: Lomoware packages hosted on lomoware github repository
@@ -13,8 +13,8 @@ MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
  3df080393a9e667532b46f62610bc08a 153 main/binary-arm64/Release
- dbbe2ecabc1414353c5fa1701f75d178 813 main/binary-amd64/Packages
- f8cb9cf1e253ea4c9641ce089f006b14 441 main/binary-amd64/Packages.gz
+ ac9aa664ab10ce07064ea8c5c3288b7e 614 main/binary-amd64/Packages
+ d4a727b016b6f95b13ee23da593ee912 394 main/binary-amd64/Packages.gz
  a7ea2f969c06bb5d40720b349cc3502c 153 main/binary-amd64/Release
 SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-armhf/Packages
@@ -23,8 +23,8 @@ SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
  64d7d89cf5bc68572c0da4fb4f6a4ea0024b996d 153 main/binary-arm64/Release
- cd89ccddcb87fde5af62795a7f469672b7d7af91 813 main/binary-amd64/Packages
- 2bacf6b8af6e8dc29c71e767c6a82cc75f81fe71 441 main/binary-amd64/Packages.gz
+ f1b5bd3276e985b4a0830479f9dc4506bc484696 614 main/binary-amd64/Packages
+ f9bb99165bc39d6f04fcb738429ed832478768ea 394 main/binary-amd64/Packages.gz
  b5bba940f56b7a5f25b45ff3e097a478a430385e 153 main/binary-amd64/Release
 SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-armhf/Packages
@@ -33,6 +33,6 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
  3bef32e86ba38e0bbd26cdbac1ff0707867ab9dacb5b75c339294c54a356770d 153 main/binary-arm64/Release
- 360b2041bcb15a1df638624533eea54e88e0799adf411f7b43b0d0774ea5b3b9 813 main/binary-amd64/Packages
- 415cdffe60fccc4ea467a1fb54f034272e6f322f310ea7ca45ffda7fed437b64 441 main/binary-amd64/Packages.gz
+ cf4ba0a8dfa14ff10703e72950a4e079fa616457a58ca2957041b5a45afa1163 614 main/binary-amd64/Packages
+ 83595cb9408d7cd2808f9b3232c97de041e935279c0c6ba68434e007d6e340ca 394 main/binary-amd64/Packages.gz
  bac785b24d62d4f840e0c3e9a8d11eca4c42e3ba47febd6bbe87cd862e08957d 153 main/binary-amd64/Release

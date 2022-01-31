@@ -1,15 +1,14 @@
 Package: lomo-vips
-Version: 8.10.5
+Version: 8.12.2
 Maintainer: Lomoware
 Architecture: amd64
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-vips/lomo-vips_8.10.5_amd64.deb
-Size: 26538160
-SHA256: d883943e97e497a4acaa651f8db2b5f121a6630ba9547b9285cbfd480be8e41e
-SHA1: 5116e6ec7f97a4b708945e2f390254b855c802ff
-MD5sum: 092d1fe43357c4e06b7bf10105724308
+Filename: pool/main/l/lomo-vips/lomo-vips_8.12.2_amd64.deb
+Size: 23884164
+SHA256: d902258d1d541361f8fde21d2d277793c8877a1c88fffa8a55031b9d1fa79e03
+SHA1: 04e98985a8beb598358193cd69b5ea6f4c1fd425
+MD5sum: 5963a10c8d08cb7a4d84f38886cd31d0
 Description: libvips package required by lomorage
-Depends: libexpat1-dev, libfftw3-dev, liblcms2-dev, libwebp-dev, libtiff-dev, libexif-dev, libpng-dev, libturbojpeg0-dev, libglib2.0-dev, libimagequant-dev, libffi-dev, libpcre3-dev, libde265-dev, liborc-0.4-dev, libheif-dev
-#PROD-Depends: libexpat1, libfftw3-3, liblcms2-2, libwebp6, libwebpdemux2, libwebpmux3, libtiff5, libexif12, libpng-tools, libturbojpeg0, libglib2.0-dev, libimagequant0, libffi6, libpcre3, libde265-0
+Depends: liblcms2-dev,libexpat1-dev,libfftw3-dev,libwebp-dev,libtiff-dev,libexif-dev,libpng-dev,libturbojpeg0-dev,libglib2.0-dev,libimagequant-dev,libffi-dev,libpcre3-dev,liborc-0.4-dev,libzstd-dev,imagemagick,libmagick++-dev
 

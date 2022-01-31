@@ -95,19 +95,18 @@ Description: lomo frame daemon
 Depends: samba, samba-common-bin, smbclient, cifs-utils
 
 Package: lomo-vips
-Version: 8.10.5
+Version: 8.12.2
 Maintainer: Lomoware
 Architecture: amd64
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-vips/lomo-vips_8.10.5_amd64.deb
-Size: 27021360
-SHA256: 2dd524343604d8e086b5e60c95802a5caa884b029cd7acdf8ff4e7e0a1c531b3
-SHA1: 999a9fa7e85081889b936091bf46283c8ed7cdf6
-MD5sum: 048bade812e10ccc577201b214c8433a
+Filename: pool/main/l/lomo-vips/lomo-vips_8.12.2_amd64.deb
+Size: 23884164
+SHA256: d902258d1d541361f8fde21d2d277793c8877a1c88fffa8a55031b9d1fa79e03
+SHA1: 04e98985a8beb598358193cd69b5ea6f4c1fd425
+MD5sum: 5963a10c8d08cb7a4d84f38886cd31d0
 Description: libvips package required by lomorage
-Depends: libexpat1-dev, libfftw3-dev, liblcms2-dev, libwebp-dev, libtiff-dev, libexif-dev, libpng-dev, libturbojpeg0-dev, libglib2.0-dev, libimagequant-dev, libffi-dev, libpcre3-dev, libde265-dev, liborc-0.4-dev, libheif-dev
-#PROD-Depends: libexpat1, libfftw3-3, liblcms2-2, libwebp6, libwebpdemux2, libwebpmux3, libtiff5, libexif12, libpng-tools, libturbojpeg0, libglib2.0-dev, libimagequant0, libffi6, libpcre3, libde265-0
+Depends: liblcms2-dev,libexpat1-dev,libfftw3-dev,libwebp-dev,libtiff-dev,libexif-dev,libpng-dev,libturbojpeg0-dev,libglib2.0-dev,libimagequant-dev,libffi-dev,libpcre3-dev,liborc-0.4-dev,libzstd-dev,imagemagick,libmagick++-dev
 
 Package: lomo-web
 Version: 2021-07-30.12-16-53.0.ad22a48
