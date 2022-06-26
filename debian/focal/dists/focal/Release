@@ -2,7 +2,7 @@ Origin: Lomorage
 Label: Lomorage
 Suite: stable
 Codename: focal
-Date: Sun, 26 Jun 2022 08:07:06 UTC
+Date: Sun, 26 Jun 2022 23:36:54 UTC
 Architectures: armhf amd64
 Components: main
 Description: Lomoware packages hosted on lomoware github repository
@@ -10,20 +10,20 @@ MD5Sum:
  7c09a7e901d3288f0ff101076f29bf5e 1402 main/binary-armhf/Packages
  289ee54fd79ba31205273e0af7e45b42 673 main/binary-armhf/Packages.gz
  932285e7366ee6f2cbc2445c19e5ed8d 153 main/binary-armhf/Release
- cad4637ae4286a2b1353bfaa20d237f0 5161 main/binary-amd64/Packages
- 13867344787fd506b59d900611a896cb 2101 main/binary-amd64/Packages.gz
+ c59083298ed9aa613b82c6caa096f4b2 5161 main/binary-amd64/Packages
+ e78bc3b0eeb71b97d08bc3284b27afd7 2100 main/binary-amd64/Packages.gz
  a530785c31521a143232e6b9969e479a 157 main/binary-amd64/Release
 SHA1:
  bc73d12d46f95a13fc1eb93dadb1848cabd6a92f 1402 main/binary-armhf/Packages
  ba0eca1646d348feba0cdca588023e3bf4cb2147 673 main/binary-armhf/Packages.gz
  3933a90b1a26f2f5aaa826e860c53dfdd5336d92 153 main/binary-armhf/Release
- 407c7ad0b89112d7dce8ae72ade2e19b2bb29901 5161 main/binary-amd64/Packages
- 126d3b82247641a2a5efdba8de85dc1386a8ff14 2101 main/binary-amd64/Packages.gz
+ 718a703c1dcd17b0357b264f42d8f08646b262e1 5161 main/binary-amd64/Packages
+ 743a3e34ee8aeb8a89bedc047b29fd64e18a54bc 2100 main/binary-amd64/Packages.gz
  d1e1997c47652d80a0155de56af56e24852fcc9b 157 main/binary-amd64/Release
 SHA256:
  d7fadaf79200a19066c5db2eb27c8b0b0b15d8d30b3e61977243a614fea11687 1402 main/binary-armhf/Packages
  57e005f67040ca1ec4bd255ff1cc934bc29e3bcbfa8a060782a344336aabcdbf 673 main/binary-armhf/Packages.gz
  3092eded57e71f6cfd1557b2d238da0303049c7676c18cfcb1bc9a3660c602b9 153 main/binary-armhf/Release
- 742dc046b409ceb8205896736ba4cbfe79c1ccb414b6b4dbe440307c87ae031e 5161 main/binary-amd64/Packages
- 50c8ec56e3b5df5f577761b854a9a55f78d449ffebf7bde9bf831114f363628f 2101 main/binary-amd64/Packages.gz
+ 0c1e0e9c9cf3974db6cf0c3007f7c501a18ac3688e1854ad4f198cf070d6adb5 5161 main/binary-amd64/Packages
+ 8f79544dcf5188be6e70164f5295be004f8b4cb8b630e25b54148dd76abe2ba3 2100 main/binary-amd64/Packages.gz
  beeeff9b846cff551adc0a1c36ca6945b6a1585c15dff3b2d6851a659e8ee766 157 main/binary-amd64/Release

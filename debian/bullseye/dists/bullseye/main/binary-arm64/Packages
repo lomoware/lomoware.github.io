@@ -39,16 +39,16 @@ Description: lomo backend
 Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips, libblkid1, util-linux
 
 Package: lomo-backend-docker
-Version: 2022-06-02.11-29-22.0.c8d7547
+Version: 2022-06-26.16-24-46.0.82e1e02
 Maintainer: Lomoware
 Architecture: arm64
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-backend-docker/lomo-backend-docker_2022-06-02.11-29-22.0.c8d7547_arm64.deb
-Size: 20186568
-SHA256: d8af4b02763ee7a50d100b9f713fb4406c9ed720e49933fa0c5a224c1f80c6a3
-SHA1: 519319d3a20e43a9d9cb682c67391a20528325a7
-MD5sum: a71cc1cfaf5bbc10274dc3b97033c72d
+Filename: pool/main/l/lomo-backend-docker/lomo-backend-docker_2022-06-26.16-24-46.0.82e1e02_arm64.deb
+Size: 21739888
+SHA256: d11d4ba76ef4028b42796b0d2b2e8c6ac2425b9606a8353389c9831be75f5cda
+SHA1: 5485870e7fbc342aa36dd0fd2252c27971424d1b
+MD5sum: e5aee0ab3970b5ab26e5e96d083d714a
 Description: lomo backend
 Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips, libblkid1, util-linux, samba, samba-common-bin, smbclient, cifs-utils
 
