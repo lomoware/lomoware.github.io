@@ -2,36 +2,36 @@ Origin: Lomorage
 Label: Lomorage
 Suite: stable
 Codename: buster
-Date: Sun, 26 Jun 2022 23:36:48 UTC
+Date: Sun, 03 Jul 2022 19:18:43 UTC
 Architectures: armhf arm64 amd64
 Components: main
 Description: Lomoware ARM packages hosted on lomoware github repository
 MD5Sum:
- cb0e4199e4a6e9918a9c38ae65351ee9 6908 main/binary-armhf/Packages
- 840f92c91e798d9adac7f00889e31b99 2713 main/binary-armhf/Packages.gz
+ 40c1c80599d4eabb738b23dd1abadf8a 6908 main/binary-armhf/Packages
+ 391244f5f689c2f01bc66b1092aa5a12 2710 main/binary-armhf/Packages.gz
  1688c221bd2c8d5a58b0bb51384675bd 157 main/binary-armhf/Release
- 60d90d779aaf53cfbd0bc746786ce667 5726 main/binary-arm64/Packages
- e3ce59ed53da5579e21da411632e12b7 2293 main/binary-arm64/Packages.gz
+ 6ddceeee6d955848248b197b731bb1ba 5726 main/binary-arm64/Packages
+ 28e86499f70bb09d57bab23f906c0d09 2287 main/binary-arm64/Packages.gz
  6bb78e6a6c46d778467ea2c595a08e0c 157 main/binary-arm64/Release
  3ad3175af857bac061541ac47668a8d6 2866 main/binary-amd64/Packages
  b0d8a3807bd1e578f77d3a4c35fd4ecd 1177 main/binary-amd64/Packages.gz
  b2a197d8dc0349dd63cc3865ef038ae2 157 main/binary-amd64/Release
 SHA1:
- a266230ee0d9064f571ec7b07a6ac3090ccd4031 6908 main/binary-armhf/Packages
- 4d18701a31eeb3dc135bc7d985d246885646c0f0 2713 main/binary-armhf/Packages.gz
+ 66a9bd8dafdd72437fe1a0f9d7faf0ed7e2c95d8 6908 main/binary-armhf/Packages
+ 06d9f24f550b1237132684a2e64243c7f8454ed0 2710 main/binary-armhf/Packages.gz
  be92bb0da17cd8e8bf44ce480327b75b6164411d 157 main/binary-armhf/Release
- eaaa4f29ee55ca21a859b4b624a836289e2c0244 5726 main/binary-arm64/Packages
- b413211833674fed890f0138667d65c687a01daf 2293 main/binary-arm64/Packages.gz
+ 071ce186da5e534331ec1bc59ef2cd6a53c6c3e5 5726 main/binary-arm64/Packages
+ 9a86dcdff3928c9e9166d0c4a835d48892d86a9a 2287 main/binary-arm64/Packages.gz
  9b91c7661c25588f2c39728c464eeb6dd56203a7 157 main/binary-arm64/Release
  d8360ed462f413bd9e2bf3835eddbc4d0c706af3 2866 main/binary-amd64/Packages
  ea9c22fd14ac4ff20653324b9b4f97dcdb9c602d 1177 main/binary-amd64/Packages.gz
  3fea147dd9287a5b6358837b5c4d11e5fa4cc960 157 main/binary-amd64/Release
 SHA256:
- 4e405fcd7747d921e41867062d04c1e267521fb7215471f7a03779c8e391be45 6908 main/binary-armhf/Packages
- 38168d794f1c85af990de5972bda6c8ec39d33098340ac581359e99388f14add 2713 main/binary-armhf/Packages.gz
+ dbfd7bfb38144568589b760f8af127efcd6ce27fbc7854ef0bb9157c32e89fee 6908 main/binary-armhf/Packages
+ 0fa941ec62f8f862586d6090e0c05110b0ca6498bfec62b3c3576bf5ba14a0a8 2710 main/binary-armhf/Packages.gz
  290a2817f92bb1575d99a0823d43db664f13b47c22b4d3babbf8b11adb257c6b 157 main/binary-armhf/Release
- c1156610c315118c5eb6a3cec6466e4b5c1adf6752c432e8010173fb8fdd5cf0 5726 main/binary-arm64/Packages
- acb48f6fbaab274d5e5adce3aebf1539bf97502abe344334923c3504e7930904 2293 main/binary-arm64/Packages.gz
+ 1e5ed12e4fc40554e04a84035d0dd725c86f74910f9e03fd4cd8509a99398395 5726 main/binary-arm64/Packages
+ 411467792b63517fa4ebb91337daeef6a16beadc292c13ecd101438a8ac8a18c 2287 main/binary-arm64/Packages.gz
  45cf0a7d2f75e258b515cdf86c10deadb28dfb3a4663cbfe1ee394eb6bfcda9f 157 main/binary-arm64/Release
  6295f8a0e42b16727af6ea10651a454462ee8d1c3f56d5eda9c766979552531c 2866 main/binary-amd64/Packages
  0b9b6411940bef2c0ebc7389a7602bcdc0532a4c58ac13e0fddc4e8ad041cdcd 1177 main/binary-amd64/Packages.gz
