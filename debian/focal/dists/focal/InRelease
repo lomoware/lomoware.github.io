@@ -5,7 +5,7 @@ Origin: Lomorage
 Label: Lomorage
 Suite: stable
 Codename: focal
-Date: Sun, 03 Jul 2022 19:18:54 UTC
+Date: Wed, 20 Jul 2022 07:57:15 UTC
 Architectures: armhf amd64
 Components: main
 Description: Lomoware packages hosted on lomoware github repository
@@ -13,36 +13,36 @@ MD5Sum:
  7c09a7e901d3288f0ff101076f29bf5e 1402 main/binary-armhf/Packages
  289ee54fd79ba31205273e0af7e45b42 673 main/binary-armhf/Packages.gz
  932285e7366ee6f2cbc2445c19e5ed8d 153 main/binary-armhf/Release
- 5a1613ebba81d53aee490d73bd72428b 5161 main/binary-amd64/Packages
- 6d41a5416ba63f433f79d83c788bcca1 2097 main/binary-amd64/Packages.gz
+ 1a775b032372bc1a06684aafe1a03488 5161 main/binary-amd64/Packages
+ 5753453c70ec718e3d32d4bced8f5411 2095 main/binary-amd64/Packages.gz
  a530785c31521a143232e6b9969e479a 157 main/binary-amd64/Release
 SHA1:
  bc73d12d46f95a13fc1eb93dadb1848cabd6a92f 1402 main/binary-armhf/Packages
  ba0eca1646d348feba0cdca588023e3bf4cb2147 673 main/binary-armhf/Packages.gz
  3933a90b1a26f2f5aaa826e860c53dfdd5336d92 153 main/binary-armhf/Release
- 9b8f17c02bf3c2ca079da10e8ccf4a304e8e422a 5161 main/binary-amd64/Packages
- 5e2539837ff4c5f60eff91ce46cb6fcf919a464c 2097 main/binary-amd64/Packages.gz
+ 29fab0b74a6274f4ee778fc98226f5de035d6773 5161 main/binary-amd64/Packages
+ d0c42facbf2e3ec7c7f84488bbd5c2857533bc65 2095 main/binary-amd64/Packages.gz
  d1e1997c47652d80a0155de56af56e24852fcc9b 157 main/binary-amd64/Release
 SHA256:
  d7fadaf79200a19066c5db2eb27c8b0b0b15d8d30b3e61977243a614fea11687 1402 main/binary-armhf/Packages
  57e005f67040ca1ec4bd255ff1cc934bc29e3bcbfa8a060782a344336aabcdbf 673 main/binary-armhf/Packages.gz
  3092eded57e71f6cfd1557b2d238da0303049c7676c18cfcb1bc9a3660c602b9 153 main/binary-armhf/Release
- fe659ccc501a8aaad4ea36d56787edcdbb49f39aafefced613c408eb0edb49be 5161 main/binary-amd64/Packages
- dd796d3caf4718ce06f9be8d4909634bf04a4079d0e802130890fa3d3f879e1e 2097 main/binary-amd64/Packages.gz
+ 1cfa14dcf4a55416f2b7ff194a076a1ed9b1972ed39b22657b5ccf72173f35ed 5161 main/binary-amd64/Packages
+ b70240aef9f1d66a18df01e8afb90cf20e921a23e20c79fbd5c5eccc16c168ca 2095 main/binary-amd64/Packages.gz
  beeeff9b846cff551adc0a1c36ca6945b6a1585c15dff3b2d6851a659e8ee766 157 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEOCNoWaAI+4YMvVkhu3aCdvPg4s0FAmLB658ACgkQu3aCdvPg
-4s1WlA/+N58DCVaQgRpP2lr+SzCFoRstsTEaY2Cbx1ADeZeQ7tQZwyUjkvMAxClQ
-9Hk6ztnsVzYxHLGOk8gHyzecYzZVwGtH4fyKfrFjGznSvgQXQL65toKRv3vXArte
-z4KtgIRN4OBeOJwhAov3oBInExP+sftgTNK7+lDkBNhMZBNegyEg49mnWYbmGrHn
-BqkkakkW6SHIMCGwGsLvss8kRN2FgUDWcxykqtv4M/JRwW9QKCOmFAx6Kb9y7TC9
-4oR+Or1AlSMiLXQ31eo+5PrnXPotYykeUJdlLpXlkL8O5YhD4Ut+B83OdI7YJnSX
-6slZsf4SAW9PccwHwYzhSoBhS0lbAIzjZnWILxgsNEl3n+lid5wplVRqIl25Kkzo
-ZrMf2SQ4AKpanW4RIMALzGFHg80u26+jLKmm0CEU452yWkvzMgRm2BqjZrYnrKyi
-3ArDCYEGyY2fRGqA/ED5jjS8lpQ1hb5bkDWTnCQxJBgAYMP77K8ANAogYa3tLvN/
-du9ZQdIrw1lbPWCrVm5VDdU7zEkcaH5tUbiZ1H/lU7FBw5IikUnx+QtTKfnGmHng
-u6UFXxasTm5U1u4UmdUZwLtUdIh1o5HZB3Zk9T+xYlVDUV81M4cVRvwnmoiFZ3n9
-t54jwXVODy1emzK/aresjZ5wNC3YOGLprBWE0ONhMEv9gcM4bfE=
-=dirh
+iQIzBAEBCgAdFiEEOCNoWaAI+4YMvVkhu3aCdvPg4s0FAmLXtVsACgkQu3aCdvPg
+4s0Apg/8DHSO9ytU6gv1syCscAhUL4zWGBu0Qp6u0eROOyJHGob/amDjVZzRaGiM
+M7xpHg+hkgjT8cwu7a/YaFKnD2UGkPH1txlSkhkT3GxopYayItnPX9Qf7qCkJ2NB
+ypkJwY2YfNmPnlAJnQLvbvh9Fw9YvAyXiXKQhIXcbRchnosFTlB3LstvBGx7E8lJ
+61X0+nTLR2gqot1b1VpDNSnXoBMCjNmUF8YGm6SmBydh/ky2N/2MR6NMrFfUKiot
+vd4BCUgVZb/g+V1bCVoLA374QqmXXRSqReKn/ZHTO+RenHxxBMFicjsoE51SuGmo
+JVLfw2+XF5JJuDpgPEtl0vRsBD1YLVtbVau1cWa9vU2ew+/TBi589Rr2t4YXuGAU
+yCfAPy3DZFcrQTaBx450M47VSe8XBHH/P2r1JIzmWf0/2fE6zacf6OvlSBEfgPTn
+MxSl2+uSWosppCk9GjTTi5D8zgMXn+bt2oyVuinzhiNt8D+ETOqf6WisWjVvPjaV
+QAxgSgi7gDGLkfUKjdlEeLrbacn+k1NJJHcxH5kpbpXlpJgiRWL4s9HxldrI+pk9
+P9B7pKl3fsG4be+b5bQ4oTNF5IWYG2G1Y0eW/zhYbKEign+Kaghnw1wJeNPwjWsq
+eGm1qqeQl3hPwtjK+2OLz9H5cgtEJTXnD/+XxxUpDbbsM7JZrgA=
+=6jAv
 -----END PGP SIGNATURE-----

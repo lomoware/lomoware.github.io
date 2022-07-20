@@ -2,19 +2,19 @@ Origin: Lomorage
 Label: Lomorage
 Suite: stable
 Codename: jessie
-Date: Sun, 03 Jul 2022 19:18:35 UTC
+Date: Wed, 20 Jul 2022 07:56:56 UTC
 Architectures: armhf
 Components: main
 Description: Lomoware ARM packages hosted on lomoware github repository
 MD5Sum:
- 8a658d62d9987d0971a641e9d824fd32 5399 main/binary-armhf/Packages
- 16eb8f47e974d22eb428d6d7a29a8e1b 2025 main/binary-armhf/Packages.gz
+ 00a6387665476358776e73aa9867ef9f 5399 main/binary-armhf/Packages
+ 2a425b218dfec9760d5db32d3949ce4b 2028 main/binary-armhf/Packages.gz
  1688c221bd2c8d5a58b0bb51384675bd 157 main/binary-armhf/Release
 SHA1:
- 7f1b77557257415f0924ad6cf87e7f184727dc76 5399 main/binary-armhf/Packages
- d904e5772fb0406a815faa80a2fba11bdb3eccc1 2025 main/binary-armhf/Packages.gz
+ a1d46d41d27b602d10756a794b00d99f6349675f 5399 main/binary-armhf/Packages
+ f18af4f6ed9d58cc49cdaf32846dd660e34e2de8 2028 main/binary-armhf/Packages.gz
  be92bb0da17cd8e8bf44ce480327b75b6164411d 157 main/binary-armhf/Release
 SHA256:
- fc9b00134699792907496381b07f57e0c1058fecfd7975a905f89887c2987cef 5399 main/binary-armhf/Packages
- 46f3db7370766b9c3d65286cdbd1ed6f2113ec0b9a9ffa62e1d2e9e06c83b735 2025 main/binary-armhf/Packages.gz
+ c39204fccb91f64da0842f677f6dda8448f9ef4da8b1f36fffd67973aa951e70 5399 main/binary-armhf/Packages
+ 1e4d15020f71a37bb174759e52a533c89d0388bc104af0797533bc94ba35b4da 2028 main/binary-armhf/Packages.gz
  290a2817f92bb1575d99a0823d43db664f13b47c22b4d3babbf8b11adb257c6b 157 main/binary-armhf/Release
