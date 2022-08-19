@@ -13,16 +13,16 @@ Description: lomo backend
 Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips, libblkid1, util-linux, samba, samba-common-bin, smbclient, cifs-utils
 
 Package: lomo-backend-docker
-Version: 2022-07-18.10-07-28.0.c97d3b3
+Version: 2022-08-18.17-10-22.0.bcaf3a6
 Maintainer: Lomoware
 Architecture: armhf
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-backend-docker/lomo-backend-docker_2022-07-18.10-07-28.0.c97d3b3_armhf.deb
-Size: 20802608
-SHA256: 9c44073f4a943cac6d26cb1fc92b7228555cec6b5780d61936ad67c801571c71
-SHA1: 79ed4751c5d5c456db445b904428612fb229c98d
-MD5sum: 7e7e3d08fe63b7c560d211f2e8c13615
+Filename: pool/main/l/lomo-backend-docker/lomo-backend-docker_2022-08-18.17-10-22.0.bcaf3a6_armhf.deb
+Size: 20812288
+SHA256: 45ed6856ab31de2f58e66085625e16332664b5701d5a22934d1f6255c83c53ae
+SHA1: e20092fd34c75730ba14812d4e85309fb41336ce
+MD5sum: 58b125512e8555b213742985b265b43f
 Description: lomo backend
 Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips, libblkid1, util-linux, samba, samba-common-bin, smbclient, cifs-utils
 
