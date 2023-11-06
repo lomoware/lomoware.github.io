@@ -1,0 +1,110 @@
+Package: hd-idle
+Version: 1.12
+Architecture: amd64
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 2505
+Homepage: https://github.com/adelolmo/hd-idle
+Priority: 1
+Section: main
+Filename: pool/main/h/hd-idle/hd-idle_1.12_amd64.deb
+Size: 1238784
+SHA256: c93d384cad1ceef08c1738115b66522beac19d0d235a9d86bf423a3a469c468f
+SHA1: 75b906f4f6e2da147394a8b4361a15d7f920b0d3
+MD5sum: 6a1580d5269c0cdeeb68c90e6bffba8d
+Description: Spin down idle hard disks
+ hd-idle is a utility program for spinning-down external disks after a period
+ of idle time. Since most external IDE disk enclosures don't support setting
+ the IDE idle timer, a program like hd-idle is required to spin down idle disks
+ automatically.
+ .
+ A word of caution: hard disks don't like spinning up too often. Laptop disks
+ are more robust in this respect than desktop disks but if you set your disks
+ to spin down after a few seconds you may damage the disk over time due to the
+ stress the spin-up causes on the spindle motor and bearings. It seems that
+ manufacturers recommend a minimum idle time of 3-5 minutes, the default in
+ hd-idle is 10 minutes.
+
+Package: lomo-backend
+Version: 2023-04-09.09-17-50.0.fbe07d7
+Maintainer: Lomoware
+Architecture: amd64
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-backend/lomo-backend_2023-04-09.09-17-50.0.fbe07d7_amd64.deb
+Size: 21187660
+SHA256: 44cf7a83c3803acc3a198470857b0895da73c29b31f6cbb89c6350dd39d01a64
+SHA1: 0e206059db5a9e56c4c831b44faadab925594863
+MD5sum: cdf844e9ec392321cbc437bf496b0a03
+Description: lomo backend
+Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips, libblkid1, util-linux
+
+Package: lomo-base
+Version: 2021-09-19.09-08-28.0.5e9419b
+Architecture: all
+Depends: nfs-common, exfat-fuse, ntfs-3g, hfsplus, hfsutils, hfsprogs, ffmpeg, lockfile-progs, udev, util-linux, pmount, rsync, jq, libimage-exiftool-perl, dnsmasq, hostapd, wpasupplicant, python3-gpiozero, avahi-utils, avahi-daemon, hd-idle
+Maintainer: Jeromy Fu<fuji246@gmail.com>
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-base/lomo-base_2021-09-19.09-08-28.0.5e9419b_all.deb
+Size: 10932
+SHA256: 632304a5d4c28b43a49a92ffa87c3049aa41051b647b34cbb7db6763e056e20c
+SHA1: 0573aaec494cd0f745d866b3597eab4fd547660e
+MD5sum: e09f2170c872bbedc16274767048703c
+Description: Lomorage Base Package, including network settings, usbmount mod, and gpio button and light control
+
+Package: lomo-base-lite
+Version: 2021-09-19.09-08-28.0.5e9419b
+Architecture: all
+Depends: nfs-common, exfat-fuse, ntfs-3g, hfsplus, hfsutils, hfsprogs, ffmpeg, lockfile-progs, udev, util-linux, pmount, rsync, jq, libimage-exiftool-perl, avahi-utils, avahi-daemon, hd-idle
+Maintainer: Jeromy Fu<fuji246@gmail.com>
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-base-lite/lomo-base-lite_2021-09-19.09-08-28.0.5e9419b_all.deb
+Size: 6056
+SHA256: 5dd8542adcee5b0bdfd46856788e9d99357839807424bf53c2d0e7b16bb151f4
+SHA1: d0cdff6e7533725abc8db01f96fdd80acdd75833
+MD5sum: 49f9d2b2d52b2ba777aebbd2b1578344
+Description: Lomorage Base Package, including usbmount mod, and other deps
+
+Package: lomo-frame
+Version: 20210825+b7a3e5d
+Architecture: all
+Depends: python3, python3-pyudev, python3-pygame, python3-watchdog, supervisor, vlc, ntfs-3g, exfat-fuse, ffmpeg, lomo-framed
+Maintainer: Jeromy Fu<fuji246@gmail.com>
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-frame/lomo-frame_20210825+b7a3e5d_all.deb
+Size: 11791608
+SHA256: 22fa82b37b2415da77191f02b52d82255c5be26dd99efcf25c7674c3ebf6fcc8
+SHA1: ab3839949737d1d30a36c504900297551b4c2184
+MD5sum: ffbe146bc00387d0d482591570acd045
+Description: Lomorage Digital Frame
+
+Package: lomo-framed
+Version: 2021-09-07.09-44-16.0.696faf6
+Maintainer: Lomoware
+Architecture: amd64
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-framed/lomo-framed_2021-09-07.09-44-16.0.696faf6_amd64.deb
+Size: 7846192
+SHA256: dffcfb5c29de709f03845c2c5d01a6688ae48b35ca7d2b8e9c355b3557e224ca
+SHA1: ab505b9ac38008a91fd05689a1f34cf2cd6864df
+MD5sum: fb611ac2c24d11a7bcb7c1b24742faf7
+Description: lomo frame daemon
+Depends: samba, samba-common-bin, smbclient, cifs-utils
+
+Package: lomo-vips
+Version: 8.12.2
+Maintainer: Lomoware
+Architecture: amd64
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-vips/lomo-vips_8.12.2_amd64.deb
+Size: 23884164
+SHA256: d902258d1d541361f8fde21d2d277793c8877a1c88fffa8a55031b9d1fa79e03
+SHA1: 04e98985a8beb598358193cd69b5ea6f4c1fd425
+MD5sum: 5963a10c8d08cb7a4d84f38886cd31d0
+Description: libvips package required by lomorage
+Depends: liblcms2-dev,libexpat1-dev,libfftw3-dev,libwebp-dev,libtiff-dev,libexif-dev,libpng-dev,libturbojpeg0-dev,libglib2.0-dev,libimagequant-dev,libffi-dev,libpcre3-dev,liborc-0.4-dev,libzstd-dev,imagemagick,libmagick++-dev
+
