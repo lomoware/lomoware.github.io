@@ -1,0 +1,28 @@
+Package: lomo-backend
+Version: 2026-08-06.21-30-39.0.3d55a27
+Maintainer: Lomoware
+Architecture: amd64
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-backend/lomo-backend_2026-08-06.21-30-39.0.3d55a27_amd64.deb
+Size: 11442648
+SHA256: e03d010e9e88a1241a66b956f12f8bff3c067e4220d2189454232a0e27f732ac
+SHA1: 7503c1ed6865a0fb2afc01e2c50b5e2d5d7094dd
+MD5sum: 7140c8ed2a5d9f9c552d8dc3af73e67f
+Description: lomo backend
+Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips, libblkid1, util-linux
+
+Package: lomo-vips
+Version: 8.12.2
+Maintainer: Lomoware
+Architecture: amd64
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-vips/lomo-vips_8.12.2_amd64.deb
+Size: 9683412
+SHA256: e0d38c9df363b6abe27bdc720ace21269f08ffc53bf79df1f38f6da89d24fce4
+SHA1: f923bee5c791afa34dd92b971fafa9288ba358b3
+MD5sum: d86a15991c1a61126b51eb50d3db85e3
+Description: libvips package required by lomorage
+Depends: liblcms2-dev,libexpat1-dev,libfftw3-dev,libwebp-dev,libtiff-dev,libexif-dev,libpng-dev,libjpeg-turbo8-dev,libglib2.0-dev,libimagequant-dev,libheif-dev,liborc-0.4-dev,libmagickcore-dev,libxml2-dev,libde265-dev,libopenjp2-7-dev,libsqlite3-dev,libgsf-1-dev,imagemagick
+

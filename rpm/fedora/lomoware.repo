@@ -1,0 +1,6 @@
+[lomoware-fedora]
+name=Lomoware Fedora Repository
+baseurl=https://lomoware.lomorage.com/rpm/fedora
+enabled=1
+gpgcheck=1
+gpgkey=https://lomoware.lomorage.com/rpm/fedora/repodata/repomd.xml.key

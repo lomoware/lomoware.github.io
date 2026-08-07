@@ -1,0 +1,20 @@
+Origin: Lomorage
+Label: Lomorage
+Suite: stable
+Codename: noble
+Date: Fri, 07 Aug 2026 06:21:21 UTC
+Architectures: amd64
+Components: main
+Description: Lomoware packages hosted on lomoware github repository
+MD5Sum:
+ e1612dc0d7063a917aa498b479532feb 1176 main/binary-amd64/Packages
+ c77b30d95eba39fa73bf5ad4f4f48dfb 623 main/binary-amd64/Packages.gz
+ a7ea2f969c06bb5d40720b349cc3502c 153 main/binary-amd64/Release
+SHA1:
+ c69d6dc421525978f507f3bba3d3f34f47e6015d 1176 main/binary-amd64/Packages
+ d1b91e7fd160b2cade0a7ea71b31c4cb6b5d29d8 623 main/binary-amd64/Packages.gz
+ b5bba940f56b7a5f25b45ff3e097a478a430385e 153 main/binary-amd64/Release
+SHA256:
+ 0f3962c930a7f387767f566bf1459d29e7a4e2f7c3f604855958403160cf4410 1176 main/binary-amd64/Packages
+ 6781326942681e5b99a142436f2599636395af079bb9b961b2e6c3790375d8a4 623 main/binary-amd64/Packages.gz
+ bac785b24d62d4f840e0c3e9a8d11eca4c42e3ba47febd6bbe87cd862e08957d 153 main/binary-amd64/Release

@@ -1,0 +1,28 @@
+Package: lomo-backend
+Version: 2026-08-06.21-30-39.0.3d55a27
+Maintainer: Lomoware
+Architecture: armhf
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-backend/lomo-backend_2026-08-06.21-30-39.0.3d55a27_armhf.deb
+Size: 10395696
+SHA256: a68e11e338e5eed2fb55beb29be0460e5381f766a5c8ec7413794d6f6a2421cd
+SHA1: 21138d2993f67c1c6103d18e901c6503d091734e
+MD5sum: f7f24ea58ffb5a44e9b9c39e669ee1e6
+Description: lomo backend
+Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips, libblkid1, util-linux, samba, samba-common-bin, smbclient, cifs-utils
+
+Package: lomo-vips
+Version: 8.12.2
+Maintainer: Lomoware
+Architecture: armhf
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-vips/lomo-vips_8.12.2_armhf.deb
+Size: 20876048
+SHA256: f19b9c501e624d4edc7f917de3fd919fd4de928601bfda111acad63658a1ddc5
+SHA1: dd1aacdaf7e23606d0f12e5f3118db525837bab9
+MD5sum: 2179f8e32ad70ecada422eb3da45a60f
+Description: libvips package required by lomorage
+Depends: liblcms2-dev,libexpat1-dev,libfftw3-dev,libwebp-dev,libtiff-dev,libexif-dev,libpng-dev,libturbojpeg0-dev,libglib2.0-dev,libimagequant-dev,libffi-dev,libpcre3-dev,liborc-0.4-dev,libzstd-dev,imagemagick,libmagick++-dev
+

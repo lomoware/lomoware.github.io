@@ -1,0 +1,14 @@
+# reprepro-managed apt repo files are signed byte-for-byte (Release/InRelease
+# signatures, Packages, db/*). Never let git touch line endings here -- a
+# CRLF conversion on any checkout would silently break signature
+# verification for every client of this repo.
+debian/*/dists/** -text
+debian/*/pool/** -text
+debian/*/db/** -text
+debian/*/conf/** -text
+debian/gpg.key -text
+
+# same reasoning for the rpm/ yum repos: rpm files and repodata (repomd.xml
+# + its detached signature, primary/filelists/other.xml.zst) are all signed
+# or binary; never touch line endings.
+rpm/** -text

@@ -1,0 +1,38 @@
+Origin: Lomorage
+Label: Lomorage
+Suite: stable
+Codename: trixie
+Date: Fri, 07 Aug 2026 06:21:18 UTC
+Architectures: armhf arm64 amd64
+Components: main
+Description: Lomoware packages hosted on lomoware github repository
+MD5Sum:
+ 500d24037c4471d6ec52675093bd0e56 1176 main/binary-armhf/Packages
+ d11707032aff82db3c374681ced1d010 633 main/binary-armhf/Packages.gz
+ 932285e7366ee6f2cbc2445c19e5ed8d 153 main/binary-armhf/Release
+ c24132c90a27c9f5520970b85dd4b16d 1128 main/binary-arm64/Packages
+ 0471754e529d343e8abd72564983fbd7 605 main/binary-arm64/Packages.gz
+ 3df080393a9e667532b46f62610bc08a 153 main/binary-arm64/Release
+ 8bed6a22388aa3cfd2baec1751b8c69d 1128 main/binary-amd64/Packages
+ b3da1f2fd11d8910475bc75f03ff35e0 606 main/binary-amd64/Packages.gz
+ a7ea2f969c06bb5d40720b349cc3502c 153 main/binary-amd64/Release
+SHA1:
+ 6c5407b12dda3b63cee291f22edfe9f26b8076ca 1176 main/binary-armhf/Packages
+ ebab7edf2a88c4c4093bdf15a2156ed0b46c21aa 633 main/binary-armhf/Packages.gz
+ 3933a90b1a26f2f5aaa826e860c53dfdd5336d92 153 main/binary-armhf/Release
+ 76e740ede572cfcd1d594aa10a4473db4cdb7384 1128 main/binary-arm64/Packages
+ c7101b04cecfa5d40e2585e9a2f08f9f3efa1ad2 605 main/binary-arm64/Packages.gz
+ 64d7d89cf5bc68572c0da4fb4f6a4ea0024b996d 153 main/binary-arm64/Release
+ 701c557754a4ae9b4eded6c82719cce85444dd20 1128 main/binary-amd64/Packages
+ 21411ac9f71b1dc00fb9a9c34d8694a827773beb 606 main/binary-amd64/Packages.gz
+ b5bba940f56b7a5f25b45ff3e097a478a430385e 153 main/binary-amd64/Release
+SHA256:
+ c3f044e995e6a06c5f594e2dce1cdaebc60fa1dce59cd41427e251cd744f8681 1176 main/binary-armhf/Packages
+ 18bf4c03952a9c3c71f56c1ddda89b3a148df1a8cde52752ca7ef46a4986dfe1 633 main/binary-armhf/Packages.gz
+ 3092eded57e71f6cfd1557b2d238da0303049c7676c18cfcb1bc9a3660c602b9 153 main/binary-armhf/Release
+ f8446f1f987277e9761e857b99f958d7e1df422320bbca3162a55bc535a1d3ff 1128 main/binary-arm64/Packages
+ 9e9cb6eec3219e45c7f8ee2c65f8597d52080efb60c60282cd1de37f60636a59 605 main/binary-arm64/Packages.gz
+ 3bef32e86ba38e0bbd26cdbac1ff0707867ab9dacb5b75c339294c54a356770d 153 main/binary-arm64/Release
+ a045cbdc8488c63be0581c479a34f81bf12955e2e3e8d99aae41abe17d24308f 1128 main/binary-amd64/Packages
+ 19bfecdacfe78b790f78c8478af672511b7999fc63a29f99e55967623df1b826 606 main/binary-amd64/Packages.gz
+ bac785b24d62d4f840e0c3e9a8d11eca4c42e3ba47febd6bbe87cd862e08957d 153 main/binary-amd64/Release
