@@ -1,0 +1,6 @@
+[lomoware-rocky9]
+name=Lomoware Rocky Linux 9 Repository
+baseurl=https://lomoware.lomorage.com/rpm/rocky9
+enabled=1
+gpgcheck=1
+gpgkey=https://lomoware.lomorage.com/rpm/rocky9/repodata/repomd.xml.key

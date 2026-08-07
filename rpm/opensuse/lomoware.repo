@@ -1,0 +1,6 @@
+[lomoware-opensuse]
+name=Lomoware openSUSE Leap Repository
+baseurl=https://lomoware.lomorage.com/rpm/opensuse
+enabled=1
+gpgcheck=1
+gpgkey=https://lomoware.lomorage.com/rpm/opensuse/repodata/repomd.xml.key
