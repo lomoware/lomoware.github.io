@@ -25,16 +25,16 @@ Description: Spin down idle hard disks
  hd-idle is 10 minutes.
 
 Package: lomo-backend
-Version: 2023-04-09.09-17-50.0.fbe07d7
+Version: 2026-08-08.10-35-30.0.ef4e582
 Maintainer: Lomoware
 Architecture: amd64
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-backend/lomo-backend_2023-04-09.09-17-50.0.fbe07d7_amd64.deb
-Size: 21187660
-SHA256: 44cf7a83c3803acc3a198470857b0895da73c29b31f6cbb89c6350dd39d01a64
-SHA1: 0e206059db5a9e56c4c831b44faadab925594863
-MD5sum: cdf844e9ec392321cbc437bf496b0a03
+Filename: pool/main/l/lomo-backend/lomo-backend_2026-08-08.10-35-30.0.ef4e582_amd64.deb
+Size: 10497872
+SHA256: 0c93ff862750a4fe2df8815aea655594ffc7d703321fbff02279cd5e020a85be
+SHA1: cca20c1b9a4e177988f1e70effe00b03b9a4f58d
+MD5sum: 39b08ae19c54b7de9acc09d5f53aa3d0
 Description: lomo backend
 Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips, libblkid1, util-linux
 
@@ -101,10 +101,10 @@ Architecture: amd64
 Priority: 1
 Section: main
 Filename: pool/main/l/lomo-vips/lomo-vips_8.12.2_amd64.deb
-Size: 23884164
-SHA256: d902258d1d541361f8fde21d2d277793c8877a1c88fffa8a55031b9d1fa79e03
-SHA1: 04e98985a8beb598358193cd69b5ea6f4c1fd425
-MD5sum: 5963a10c8d08cb7a4d84f38886cd31d0
+Size: 8677760
+SHA256: 035674da80e5767b7d14c7b2b94862f31c7b8a4e4b2e6b4920c236b1e211016a
+SHA1: 62c4134255e2753d907170e23b803c777d3ff1cf
+MD5sum: d35415a093ff9fd55bea631691889ac5
 Description: libvips package required by lomorage
-Depends: liblcms2-dev,libexpat1-dev,libfftw3-dev,libwebp-dev,libtiff-dev,libexif-dev,libpng-dev,libturbojpeg0-dev,libglib2.0-dev,libimagequant-dev,libffi-dev,libpcre3-dev,liborc-0.4-dev,libzstd-dev,imagemagick,libmagick++-dev
+Depends: liblcms2-dev,libexpat1-dev,libfftw3-dev,libwebp-dev,libtiff-dev,libexif-dev,libpng-dev,libjpeg62-turbo-dev,libglib2.0-dev,libimagequant-dev,libheif-dev,liborc-0.4-dev,libmagickcore-dev,libxml2-dev,libde265-dev,libopenjp2-7-dev,libsqlite3-dev,libgsf-1-dev,imagemagick
 

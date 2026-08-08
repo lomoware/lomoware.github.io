@@ -1,3 +1,17 @@
+Package: lomo-backend
+Version: 2026-08-08.10-35-30.0.ef4e582
+Maintainer: Lomoware
+Architecture: amd64
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-backend/lomo-backend_2026-08-08.10-35-30.0.ef4e582_amd64.deb
+Size: 10497872
+SHA256: 0c93ff862750a4fe2df8815aea655594ffc7d703321fbff02279cd5e020a85be
+SHA1: cca20c1b9a4e177988f1e70effe00b03b9a4f58d
+MD5sum: 39b08ae19c54b7de9acc09d5f53aa3d0
+Description: lomo backend
+Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips, libblkid1, util-linux
+
 Package: lomo-backend-docker
 Version: 2021-11-25.14-36-45.0.057f214
 Maintainer: Lomoware
@@ -53,4 +67,18 @@ SHA256: 22fa82b37b2415da77191f02b52d82255c5be26dd99efcf25c7674c3ebf6fcc8
 SHA1: ab3839949737d1d30a36c504900297551b4c2184
 MD5sum: ffbe146bc00387d0d482591570acd045
 Description: Lomorage Digital Frame
+
+Package: lomo-vips
+Version: 8.12.2
+Maintainer: Lomoware
+Architecture: amd64
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-vips/lomo-vips_8.12.2_amd64.deb
+Size: 8455544
+SHA256: 65ef5a38cdf6bf20442f01812c207b05cad4fe097bd335a79941570a341f4732
+SHA1: 486ad02aa48997fce21c40cb24b29b1c17e3bd41
+MD5sum: 5a19e85bb855884068f7b7079f6f1407
+Description: libvips package required by lomorage
+Depends: liblcms2-dev,libexpat1-dev,libfftw3-dev,libwebp-dev,libtiff-dev,libexif-dev,libpng-dev,libjpeg62-turbo-dev,libglib2.0-dev,libimagequant-dev,libheif-dev,liborc-0.4-dev,libmagickcore-dev,libxml2-dev,libde265-dev,libopenjp2-7-dev,libsqlite3-dev,libgsf-1-dev,imagemagick
 
