@@ -25,16 +25,16 @@ Description: Spin down idle hard disks
  hd-idle is 10 minutes.
 
 Package: lomo-backend
-Version: 2026-08-08.11-37-45.0.8a27e6c
+Version: 2026-08-20.00-16-59.0.3bee9ce
 Maintainer: Lomoware
 Architecture: arm64
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-backend/lomo-backend_2026-08-08.11-37-45.0.8a27e6c_arm64.deb
-Size: 9970524
-SHA256: f575f7056b993c87880814b157106f24ab193b7f9dddeb56c368c48232382b06
-SHA1: ae802a5e2d3dee71ddf8023dc3007f6927b7d074
-MD5sum: a8d3e21e2838f34413f7ae5f7dde8990
+Filename: pool/main/l/lomo-backend/lomo-backend_2026-08-20.00-16-59.0.3bee9ce_arm64.deb
+Size: 9970728
+SHA256: d7d12ecd1a68bb31a7f4b35b95a9367ea4b4048f56a4876855b15291ab0512d0
+SHA1: 92671f906f872ba153eb2ffb47a105f3d556b384
+MD5sum: 8e0177afd0c7e82967a99de77735057a
 Description: lomo backend
 Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips, libblkid1, util-linux
 
