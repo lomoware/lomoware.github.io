@@ -2,19 +2,19 @@ Origin: Lomorage
 Label: Lomorage
 Suite: stable
 Codename: jammy
-Date: Wed, 16 Sep 2026 07:01:21 UTC
+Date: Wed, 16 Sep 2026 07:47:37 UTC
 Architectures: amd64
 Components: main
 Description: Lomoware packages hosted on lomoware github repository
 MD5Sum:
- d008f3368a311b3b1de544c53f09573f 1176 main/binary-amd64/Packages
- 70f83d241a8aed42159a5bfcd305ffc9 624 main/binary-amd64/Packages.gz
+ 95fc95af3fbdb91cf6c0f0bd7c0a0141 1176 main/binary-amd64/Packages
+ a2c2e196ab48d1193381b4a5de117a07 626 main/binary-amd64/Packages.gz
  a7ea2f969c06bb5d40720b349cc3502c 153 main/binary-amd64/Release
 SHA1:
- 19ff5b4ed870d150b8be51eded85664c0e191e22 1176 main/binary-amd64/Packages
- 294719a3420a378e0710fde2eacab81bf4c65af0 624 main/binary-amd64/Packages.gz
+ 6c665d1ded225aca36cdeaab623d09862adba523 1176 main/binary-amd64/Packages
+ c4f45f5f44bb6b022ca836400ddacafed12755c8 626 main/binary-amd64/Packages.gz
  b5bba940f56b7a5f25b45ff3e097a478a430385e 153 main/binary-amd64/Release
 SHA256:
- c7cecf9192b3774dfd96a1ebe86679318e335c11c5e2e3b6a6f697f3452171d4 1176 main/binary-amd64/Packages
- c917689c4125f069640cea86341652a37dcb694cd47cfb231b6692d1fb23fc98 624 main/binary-amd64/Packages.gz
+ 1b9096f3872357ce4ce2b74d8940df1853dad55f459c4cc19a435b1037b19358 1176 main/binary-amd64/Packages
+ aab36e31c7568131c3e5e11a485f1d327d310c848a519874320814f90cf26c89 626 main/binary-amd64/Packages.gz
  bac785b24d62d4f840e0c3e9a8d11eca4c42e3ba47febd6bbe87cd862e08957d 153 main/binary-amd64/Release

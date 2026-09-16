@@ -5,35 +5,35 @@ Origin: Lomorage
 Label: Lomorage
 Suite: stable
 Codename: noble
-Date: Wed, 16 Sep 2026 07:01:21 UTC
+Date: Wed, 16 Sep 2026 07:47:37 UTC
 Architectures: amd64
 Components: main
 Description: Lomoware packages hosted on lomoware github repository
 MD5Sum:
- 74e480b5ab27cdc977204f56988a0c6b 1176 main/binary-amd64/Packages
- a3048ae5c47962d7e5004ee7ae614d4f 620 main/binary-amd64/Packages.gz
+ b2555723f7b747d26e0caa9cacd43b0b 1176 main/binary-amd64/Packages
+ 329339e5baca29511a19f137c8e5083a 622 main/binary-amd64/Packages.gz
  a7ea2f969c06bb5d40720b349cc3502c 153 main/binary-amd64/Release
 SHA1:
- 9662ba7278af6f7408015b8a1a191809685ced22 1176 main/binary-amd64/Packages
- f316c6589a4c28231917bd79e9b02131f0672d60 620 main/binary-amd64/Packages.gz
+ e0d6ba25fbf467cd78afe0e98d3043e9adc8242d 1176 main/binary-amd64/Packages
+ a1f1d6e71cd1178a881fe290e697da2bafda3a5a 622 main/binary-amd64/Packages.gz
  b5bba940f56b7a5f25b45ff3e097a478a430385e 153 main/binary-amd64/Release
 SHA256:
- 1e66fab00bdb51275513e654b8846225f84150f0dcf460620ea3994312388106 1176 main/binary-amd64/Packages
- e72190591d0036b72eed6703ea72a5dd06f5422b5025e50bb0434148e83a318d 620 main/binary-amd64/Packages.gz
+ 2b1764fe318b47a1493d8c3b69248d0e18ce46be1c79b0b7f360c12640dfb473 1176 main/binary-amd64/Packages
+ 70b9f01706a2ee6b7f985b2f0e6c55a747732caf434e7b6792e498a2a6bc0859 622 main/binary-amd64/Packages.gz
  bac785b24d62d4f840e0c3e9a8d11eca4c42e3ba47febd6bbe87cd862e08957d 153 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE0ZA6IsTOaXshMFQSTDmuTU9blKIFAmqqPsIACgkQTDmuTU9b
-lKKYJg//f4XfcIaj7YxCjvhQqeYWU38OiEig52/2rYrtw+6X98pxzhvM3YWHmIQj
-wAEd3aTbHCqd42floga0kiazd2/mz4B8ET7BGOgM7WEtMe1OVgSJdRtbBCyBHW8s
-wtx6GdkvjkzMTwjVK3gD21VY3aT5aC4sq1Svmo1druKT5fF5Yx3X3OzX/v8MToOv
-6YR7O1+taZVIcJJSzYa3nqREO8HNuwaPm1WTILKfYFEPJ4DeiO1xU+cXKztVtX0R
-+TKoBqLUGvAC8wjvLL/YfliABAGy0wIv78O8k4fWLAw6naGdu42vhXq/gpg/Oczp
-JCTN/fOIOZL6ZML7b6OfjoHPC09CoKKvDB6hmXL1AsW+2pwxUsOUrxTURIqekSK7
-1r7W6iMndriKUoJTAUVojoHGYDxU4a8vTJayHEcgP/IhbcApjMmbKIktp6kTw91Q
-Eyyd61a4G4oDMBJjcJAhNm9ZGko6DESoch7WGI4Dh+PL0pQJDAUH61qc1OZx4R3y
-xRkHDI0zmhU+OmU4lePvmlRNYehYlCPecZ6QBhIx+xtEaJ3Mc3HhbVfJ/Ye1zNL8
-30zRKY8RrXq5v6WpuD7ZYDcmIHGMPpHEp/dqWDad/BQnnI96RifkCJzgPTObVMZH
-6nkxNlAUUijgniLB5LFVOOu6Ztxr/IqCVvcLaRNr4AmcfDJDRyM=
-=3O2X
+iQIyBAEBCgAdFiEE0ZA6IsTOaXshMFQSTDmuTU9blKIFAmqqSZkACgkQTDmuTU9b
+lKLP+w/4wZm40WqfxkyBaZkzMXAnF3dlmewM17LBBQXt159bhGT9Lj5PplEx1Nxt
+ZM+bIRF7iRAsknd7EasgF8OcxNHr5MA78tXw2ZuI7ZRw1OyH54aWQisa4r0OinDY
+vTSLzZizmFyRI351VAEe+dgrR7usnSf+u36w4Piv4VFGA2PlgT3jj5gLaKQLcGDD
+pq7jTHXExM1QDs0hxAdbtFzBZEFtHwi5zAB06soMJ60rpSMpVWTdlQTT6U+mw29p
+BZklKrUSf3EZBss+4HYmlg/jjrbax4i9NUdrgSJYs2sHQ0ELkDrY8RUxPe3gu13m
+C1S06wuHx++LoOnr5AhQ950im+i39zxhSWAphSFsFZdHR6lO2nR+ObYiDNFGeI2z
+GpTuzCqy1ivKoNi/0qqQAhA2aFz0FTgHDIaTfyN68m+wA/0X14h9rTjhVIq4qP1C
+pLJzdJAR6mPbOBoRFNFD1m2pyW7zU9jNwwI8MkT3AROWwMyt/H2h1IMiK+jtqW5u
+V4dYmrq4J5def43LX7NVDo4ZATsYwXNvEGma8pU+RFYdcVJfIJXKo7uHHwL8dN23
+OrpyuJceAH7zGxUnA8oLjEPrJBD7Fn050lLhVsC28jjN0GhD2LQvD4M5ldXZfC8H
+jio/Zo00NSfw2lLkwOVf2/ahf4zWKxdZoFD+y2iWP+6q5JyQ3w==
+=typy
 -----END PGP SIGNATURE-----
