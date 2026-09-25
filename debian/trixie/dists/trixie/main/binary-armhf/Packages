@@ -1,14 +1,14 @@
 Package: lomo-backend
-Version: 2026-09-17.07-22-33.0.65023df
+Version: 2026-09-24.22-43-56.0.2a71455
 Maintainer: Lomoware
 Architecture: armhf
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-backend/lomo-backend_2026-09-17.07-22-33.0.65023df_armhf.deb
-Size: 10255408
-SHA256: 75915ef0b61f886442b30e4f1c2009681d45fc642a4c4628387a7f86973bd6f7
-SHA1: 63b4fe21442d2e1f3b753e728af35b0f3e26bac1
-MD5sum: e8f48a816d6617c6a7c4d7fd9408d19e
+Filename: pool/main/l/lomo-backend/lomo-backend_2026-09-24.22-43-56.0.2a71455_armhf.deb
+Size: 10267056
+SHA256: cfad67b0729997b57f8b6cdbc9b6a06c6baf1f0bc6763281bf689a925407af21
+SHA1: 3d615b31c8a1e8efbacf5776f7bc5074149df645
+MD5sum: aa63df5bcd9be45c6bdfc661c25a776f
 Description: lomo backend
 Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips, libblkid1, util-linux, samba, samba-common-bin, smbclient, cifs-utils
 
