@@ -1,14 +1,14 @@
 Package: lomo-backend
-Version: 2026-09-29.22-33-14.0.968a8c7
+Version: 2026-09-30.00-40-53.0.4e5aaec
 Maintainer: Lomoware
 Architecture: amd64
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-backend/lomo-backend_2026-09-29.22-33-14.0.968a8c7_amd64.deb
-Size: 11698924
-SHA256: aa55321030bd16a950b2c0c3513d545efd544beef8f91a162e2eadacc8a6db7e
-SHA1: 9506b47165edd9e31f6722c1ad3de1596d695cb7
-MD5sum: d0e218d9a58eb24d2b665aea2398cab9
+Filename: pool/main/l/lomo-backend/lomo-backend_2026-09-30.00-40-53.0.4e5aaec_amd64.deb
+Size: 11697440
+SHA256: 3160df8f4d34e3257374a03bff41d93201de0ccc88967965748081fd2f2ae319
+SHA1: 1cab11b522180fbd3b9f95f46394cdbad07409fa
+MD5sum: b088162e2fb63b60423c49697c73dc91
 Description: lomo backend
 Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips, libblkid1, util-linux
 
