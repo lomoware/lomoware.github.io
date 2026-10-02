@@ -33,10 +33,10 @@ Architecture: armhf
 Priority: 1
 Section: main
 Filename: pool/main/l/lomo-vips/lomo-vips_8.12.2_armhf.deb
-Size: 20876048
-SHA256: f19b9c501e624d4edc7f917de3fd919fd4de928601bfda111acad63658a1ddc5
-SHA1: dd1aacdaf7e23606d0f12e5f3118db525837bab9
-MD5sum: 2179f8e32ad70ecada422eb3da45a60f
+Size: 8057452
+SHA256: f2d7c8d0bc60a6623dcbccbb9f6e96c89e750d0e05cf04b9c45a5dc5a22eb409
+SHA1: b0ab9e9ab431655ad78da1d3513d46847d8f2469
+MD5sum: 5e83924714778ffacb516da3f4b97e5e
 Description: libvips package required by lomorage
-Depends: liblcms2-dev,libexpat1-dev,libfftw3-dev,libwebp-dev,libtiff-dev,libexif-dev,libpng-dev,libturbojpeg0-dev,libglib2.0-dev,libimagequant-dev,libffi-dev,libpcre3-dev,liborc-0.4-dev,libzstd-dev,imagemagick,libmagick++-dev
+Depends: liblcms2-dev,libexpat1-dev,libfftw3-dev,libwebp-dev,libtiff-dev,libexif-dev,libpng-dev,libjpeg62-turbo-dev,libglib2.0-dev,libimagequant-dev,libheif-dev,liborc-0.4-dev,libmagickcore-dev,libxml2-dev,libde265-dev,libopenjp2-7-dev,libsqlite3-dev,libgsf-1-dev,imagemagick
 
