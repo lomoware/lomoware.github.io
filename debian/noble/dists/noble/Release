@@ -2,19 +2,19 @@ Origin: Lomorage
 Label: Lomorage
 Suite: stable
 Codename: noble
-Date: Thu, 01 Oct 2026 04:10:06 UTC
+Date: Tue, 13 Oct 2026 08:15:27 UTC
 Architectures: amd64
 Components: main
 Description: Lomoware packages hosted on lomoware github repository
 MD5Sum:
- dda4486dcb939cd38ab491e78465ee28 1176 main/binary-amd64/Packages
- 95e1b09d488dcd1ba4daa4b62e178fc8 621 main/binary-amd64/Packages.gz
+ bd2c87fe69870286be7162477611549e 1176 main/binary-amd64/Packages
+ 898af6fc69cf43d3dbbc3580cedf29e8 623 main/binary-amd64/Packages.gz
  a7ea2f969c06bb5d40720b349cc3502c 153 main/binary-amd64/Release
 SHA1:
- fd0cf90484920c6c539eaeaa3408af17dd9b044f 1176 main/binary-amd64/Packages
- e635e49a4417c3aadf7418ce052934da23f4ad1f 621 main/binary-amd64/Packages.gz
+ e07da999dba708b448afb25f6b9bdd88aac2f633 1176 main/binary-amd64/Packages
+ 511b102d77c9549dac29a2d035d06a54fe2bcd83 623 main/binary-amd64/Packages.gz
  b5bba940f56b7a5f25b45ff3e097a478a430385e 153 main/binary-amd64/Release
 SHA256:
- 5b4bc7e243a213a2fbce124ddead39a45ba384383ec164fd10e4fa1f712520de 1176 main/binary-amd64/Packages
- c830ab7c1599db78c96b8f27bcea4c379bf3ff557571e65ae4a6ee39807b11a7 621 main/binary-amd64/Packages.gz
+ 1babe0ee9370866c9f8b9fa4305c1b49afa8f750f9818c1b8a44acfaf8ab73cd 1176 main/binary-amd64/Packages
+ 63ab0584a49aab9015cb164647e46774f455c5a421312426f5c1c4c96d86d0c5 623 main/binary-amd64/Packages.gz
  bac785b24d62d4f840e0c3e9a8d11eca4c42e3ba47febd6bbe87cd862e08957d 153 main/binary-amd64/Release
