@@ -25,30 +25,30 @@ Description: Spin down idle hard disks
  hd-idle is 10 minutes.
 
 Package: lomo-backend
-Version: 2026-10-13.01-09-28.0.ebacd0b
+Version: 2026-10-15.09-20-06.0.40fc8bc
 Maintainer: Lomoware
 Architecture: armhf
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-backend/lomo-backend_2026-10-13.01-09-28.0.ebacd0b_armhf.deb
-Size: 10330500
-SHA256: 9ae93b717e2f9227304e84bc94d543bbf7938cbbcb3825d7a5024e75793538cf
-SHA1: 0c5ac97463cf2d5767746a9d20e6e88c6ec77d2c
-MD5sum: e521c6b602fbc94d96eb45027dadb2ad
+Filename: pool/main/l/lomo-backend/lomo-backend_2026-10-15.09-20-06.0.40fc8bc_armhf.deb
+Size: 10283088
+SHA256: 70d4d211012e349f12bcdbd91042a57524f5861f82aa1cab617e4a0f117a8897
+SHA1: 012a767ea114db2510a788edac40c8547653d268
+MD5sum: d14e139dc84d34c1eedce12a32f39f69
 Description: lomo backend
 Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips, libblkid1, util-linux, samba, samba-common-bin, smbclient, cifs-utils
 
 Package: lomo-backend-docker
-Version: 2026-10-13.01-09-28.0.ebacd0b
+Version: 2026-10-15.09-20-06.0.40fc8bc
 Maintainer: Lomoware
 Architecture: armhf
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-backend-docker/lomo-backend-docker_2026-10-13.01-09-28.0.ebacd0b_armhf.deb
-Size: 10152872
-SHA256: cbfd84882b373993af5212f0c69225cde7e51cfc4611761d688b3a93a94b05f1
-SHA1: 377c81b6a1f00d4a19a5e96b2c75db9396809753
-MD5sum: b4626ed6984229f66d12f14e37ff06a9
+Filename: pool/main/l/lomo-backend-docker/lomo-backend-docker_2026-10-15.09-20-06.0.40fc8bc_armhf.deb
+Size: 10106240
+SHA256: b937cd2b1c7db02ac432b3d61092d951d0d340a96edd849d6854fba433f92369
+SHA1: 86e777b752705efc661c4073aa397d4a3a3c50f0
+MD5sum: f18d89ee47231c62e59b0941e2d7d46b
 Description: lomo backend
 Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips, libblkid1, util-linux, samba, samba-common-bin, smbclient, cifs-utils
 
