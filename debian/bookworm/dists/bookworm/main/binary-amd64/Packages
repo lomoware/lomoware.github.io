@@ -25,30 +25,30 @@ Description: Spin down idle hard disks
  hd-idle is 10 minutes.
 
 Package: lomo-backend
-Version: 2026-10-22.00-47-46.0.40fc8bc
+Version: 2026-10-22.06-29-20.0.29fcfee
 Maintainer: Lomoware
 Architecture: amd64
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-backend/lomo-backend_2026-10-22.00-47-46.0.40fc8bc_amd64.deb
-Size: 11700360
-SHA256: 7482a00859a1d5dd1f810a0ea1507e8eabbab023d4efaaba514b592dac6d006e
-SHA1: 7d64aa677d1b08eefc477e81209a66f63a5ace9e
-MD5sum: 69d4924443db7f6da61ef48b8e84878b
+Filename: pool/main/l/lomo-backend/lomo-backend_2026-10-22.06-29-20.0.29fcfee_amd64.deb
+Size: 11760484
+SHA256: e11ed13e6373c44430d0cd4659b342e7f666b89e0b74bab10fb967eefc7864f7
+SHA1: 96540ac1edeac6eddd038818f1a0f22fccf24d33
+MD5sum: 86c459e64fc24e1e4fac480d54383edf
 Description: lomo backend
 Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips, libblkid1, util-linux
 
 Package: lomo-backend-docker
-Version: 2026-10-22.00-47-46.0.40fc8bc
+Version: 2026-10-22.06-29-20.0.29fcfee
 Maintainer: Lomoware
 Architecture: amd64
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-backend-docker/lomo-backend-docker_2026-10-22.00-47-46.0.40fc8bc_amd64.deb
-Size: 11520060
-SHA256: 93d57c8c9627e7318c5158cfd8b4e0aa8c6155af8ac19778bb3af6b380aab8c5
-SHA1: c434555695b4736c32c1d5eb8ec52ba9629d4500
-MD5sum: 8add4b4b028c17e11650d8aa6585d45f
+Filename: pool/main/l/lomo-backend-docker/lomo-backend-docker_2026-10-22.06-29-20.0.29fcfee_amd64.deb
+Size: 11579300
+SHA256: d158ee8772d88b57ece941a0610bed9c009aae65faa0a2ce7be0b9c65287dacd
+SHA1: e82eebf11f8e2b8816095b5edeb0ab51aa5f68cf
+MD5sum: 1fc0c84fb62ec437fb6bdc104082efc8
 Description: lomo backend
 Depends: sqlite3, zip, libimage-exiftool-perl, ffmpeg, rsync, lomo-vips, libblkid1, util-linux, samba, samba-common-bin, smbclient, cifs-utils
 
