@@ -83,16 +83,16 @@ MD5sum: 5f8860c1dde571693c1f529ee327040f
 Description: Lomorage Digital Frame
 
 Package: lomo-vips
-Version: 8.12.2
+Version: 8.12.2-2
 Maintainer: Lomoware
 Architecture: amd64
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-vips/lomo-vips_8.12.2_amd64.deb
-Size: 8750288
-SHA256: af0a51baa0ae93a96a5e84448d491f440ef443538928754837f0d6368223d96d
-SHA1: 4d947eccde9ca8d38079e8ae3d7f14e59f07eef1
-MD5sum: d6ce5e7c2af5b610108929a3cd540be4
+Filename: pool/main/l/lomo-vips/lomo-vips_8.12.2-2_amd64.deb
+Size: 11242900
+SHA256: 6da805269b4eaee3dd62be06a1f87aaf6812042039563dce99a75836fb92df29
+SHA1: bcbea61181115e282b6b6add94dcecd6b9f571c7
+MD5sum: 071c8dd3ba1f63b74d0e8f4e56005454
 Description: libvips package required by lomorage
-Depends: liblcms2-dev,libexpat1-dev,libfftw3-dev,libwebp-dev,libtiff-dev,libexif-dev,libpng-dev,libjpeg62-turbo-dev,libglib2.0-dev,libimagequant-dev,libheif-dev,liborc-0.4-dev,libmagickcore-dev,libxml2-dev,libde265-dev,libopenjp2-7-dev,libsqlite3-dev,libgsf-1-dev,imagemagick
+Depends: liblcms2-dev,libexpat1-dev,libfftw3-dev,libwebp-dev,libtiff-dev,libexif-dev,libpng-dev,libjpeg62-turbo-dev,libglib2.0-dev,libimagequant-dev,libheif-dev,libaom-dev,liborc-0.4-dev,libmagickcore-dev,libxml2-dev,libde265-dev,libopenjp2-7-dev,libsqlite3-dev,libgsf-1-dev,imagemagick
 

@@ -109,16 +109,16 @@ Description: lomo frame daemon
 Depends: samba, samba-common-bin, smbclient, cifs-utils
 
 Package: lomo-vips
-Version: 8.12.2
+Version: 8.12.2-2
 Maintainer: Lomoware
 Architecture: armhf
 Priority: 1
 Section: main
-Filename: pool/main/l/lomo-vips/lomo-vips_8.12.2_armhf.deb
-Size: 20876048
-SHA256: f19b9c501e624d4edc7f917de3fd919fd4de928601bfda111acad63658a1ddc5
-SHA1: dd1aacdaf7e23606d0f12e5f3118db525837bab9
-MD5sum: 2179f8e32ad70ecada422eb3da45a60f
+Filename: pool/main/l/lomo-vips/lomo-vips_8.12.2-2_armhf.deb
+Size: 8063564
+SHA256: 8238c88a5e104ee64d31774bea1aff17b64da77bf87a72a371458ade045674e9
+SHA1: 7028acaf0ac5ae4f338061b8cd501eeb1e4e383f
+MD5sum: d487b967ff6ccbb00801b57720feb1a7
 Description: libvips package required by lomorage
-Depends: liblcms2-dev,libexpat1-dev,libfftw3-dev,libwebp-dev,libtiff-dev,libexif-dev,libpng-dev,libturbojpeg0-dev,libglib2.0-dev,libimagequant-dev,libffi-dev,libpcre3-dev,liborc-0.4-dev,libzstd-dev,imagemagick,libmagick++-dev
+Depends: liblcms2-dev,libexpat1-dev,libfftw3-dev,libwebp-dev,libtiff-dev,libexif-dev,libpng-dev,libjpeg62-turbo-dev,libglib2.0-dev,libimagequant-dev,libheif-dev,libaom-dev,liborc-0.4-dev,libmagickcore-dev,libxml2-dev,libde265-dev,libopenjp2-7-dev,libsqlite3-dev,libgsf-1-dev,imagemagick
 
